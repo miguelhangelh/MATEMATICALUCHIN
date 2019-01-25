@@ -1,0 +1,187 @@
+/**
+ * $JA#COPYRIGHT$
+ */
+ 
+// VARIABLES & MIXINS
+// ------------------
+@import "vars.less"; // Modify this for custom colors, font-sizes, etc
+
+
+// --------------------------------------------------
+// MODULE CONTENTSLIDER
+// --------------------------------------------------
+.contentslider {
+  border-top: solid 1px @tpl-color-border;
+  padding-top: @t3-global-padding *1.5;
+  padding-bottom: @t3-global-padding *1.5;
+}
+
+.ja-contentslider {
+  height: 200px;
+  margin: 0 ;
+  padding: 0;
+  position: relative;
+  width: 100% !important;
+}
+
+#ja-contentsliderwrap div.moduletable {
+  margin: 0;
+  padding: 0 !important;
+}
+
+// Content Slider Center
+.ja-contentslider-center {
+  margin: 0;
+  padding: 0;
+  float: left;
+  position:relative;
+  overflow:hidden;
+  @media screen and (min-width: @screen-md) {
+    width: 100% !important;
+  }
+
+  span {
+    width: 140px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  div.jsslide {
+    text-align: center;
+  }
+
+  .content a {
+    background: @white;
+    border: solid 1px @tpl-color-border;
+    display: inline-block;
+    margin-bottom: @t3-global-margin / 4;
+    padding: 6px;
+    &:hover, &:focus, &:active {
+      border-color: @tpl-slider-img-hover-color;
+    }
+  }
+
+  img {
+    margin: 0;
+    height: auto;
+  }
+  
+  .ja_slidetitle a {
+    font-size: @t3-font-size-bigger;
+    font-weight: normal;
+  }
+}
+
+div.ja_slidetitle {
+  text-align: center;
+  a {
+    font-weight: bold;
+  }
+}
+
+div.ja_slideimages {
+  margin: 0;
+}
+
+.ja-contentslider-center-wrap {
+  margin-left: -(@t3-global-margin / 2);
+  margin-right: -(@t3-global-margin / 2);
+
+  @media screen and (max-width: @screen-md) {
+    overflow: hidden; 
+    width: 100% !important;
+  }
+
+}
+
+div.ja-slidereadmore {
+  margin: (@t3-global-margin/2) 0 0;
+  a {
+    background: none;
+    color: @link-color;
+    &:hover, &:focus, &:active {
+      background: none; 
+      color: @link-hover-color;
+    }
+  }
+}
+
+// Button Control
+.ja-button-control {
+  margin: 5px 0 @t3-global-margin;
+  position: relative;
+  .ja-text-heading {
+    font-weight: bold;
+    padding: (@t3-global-padding / 10) (@t3-global-padding / 4);
+    float: left;
+  }
+
+  a {
+    background: @white;
+    border: 1px solid @tpl-color-border;
+    display: block;
+    float: left;
+    line-height: @line-height-computed;
+    margin-right: (@t3-global-margin / 4);
+    margin-top: (@t3-global-margin / 10);
+    padding: 0 (@t3-global-padding / 4);
+    
+    // Link States 
+    &:hover, &:focus, &:active {
+      text-decoration: none;
+      color: @white;
+      background: @brand-primary;
+      border: 1px solid @brand-primary;
+    }
+
+    &.active {
+      text-decoration: none;
+      color: @white;
+      background: @brand-primary;
+      border: 1px solid @brand-primary;
+    }
+  }
+
+  strong {
+    font-size: 110%;
+    padding-left: @t3-global-padding;
+    line-height: 27px;
+    display: block;
+    float: left;
+  }
+
+}
+
+.ja-contentslider-left,
+.ja-contentslider-right {
+  background: url("@{t3-image-path}/btn-control.png") no-repeat right top;
+  position: absolute;
+  height: 17px;
+  right: 10px;
+  top: -25px;
+  width: 17px;
+  &:hover {
+    background-position: right bottom;
+    cursor: pointer;
+  }
+}
+
+.ja-contentslider-left {
+  background-position: left top;
+  right: 34px;
+  &:hover {
+    background-position: left bottom ;
+  }
+}
+
+
+// Fix for IE 8
+.ie8 {
+
+  .ja-contentslider-center img {
+    max-width: none !important;
+  }
+  
+}

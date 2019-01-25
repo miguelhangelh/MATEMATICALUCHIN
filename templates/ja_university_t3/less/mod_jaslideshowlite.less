@@ -1,0 +1,304 @@
+/**
+ * $JA#COPYRIGHT$
+ */
+ 
+// VARIABLES & MIXINS
+// ------------------
+@import "vars.less"; // Modify this for custom colors, font-sizes, etc
+
+
+// --------------------------------------------------
+// MODULE SLIDESHOW LITE
+// --------------------------------------------------
+
+.t3-slideshow {
+  background: @tpl-slideshow-bg;
+  border-bottom: 1px solid @tpl-slideshow-border;
+  position: relative;
+  z-index: 10;
+}
+
+.ja-ss-slideshow {
+  position: relative;
+  height: 309px;
+}
+
+.ja-ss-loading:before { 
+  background: url("@{t3-image-path}/slideloading.gif") no-repeat center center;
+  content: "";
+  display: block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 21;
+}
+ 
+.ja-ss-wrap {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ja-ss-items {
+  width: 100%;
+}
+
+.ja-ss-item {
+  display: block;
+  float: left;
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 10;
+  backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+
+  img {
+    background: @white;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  &.prev,
+  &.next {
+    display: block;
+  }
+}
+
+.ja-ss-item.curr {
+  z-index: 20;
+}
+
+.ja-ss-mask {
+  background: url("@{t3-image-path}/mask-left.png") no-repeat left top;
+  display: block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+  z-index: 100;
+
+  &.mask-right {
+    background: url("@{t3-image-path}/mask-right.png") no-repeat right top;
+    left: auto;
+    right: 0;
+  }
+}
+
+.ja-ss-desc {
+  background: url("@{t3-image-path}/trans-d40.png");
+  color: @white;
+  left: 0;
+  position: absolute;
+  bottom: 90px;
+  box-sizing: border-box; 
+  padding: 20px;
+  width: 350px;
+  z-index: 110;
+
+  @media screen and (min-width: @screen-md) {
+    bottom: 122px;
+  }
+
+  h3 {
+    color: @white;
+    font-size: @font-size-h2;
+    font-weight: normal;
+    line-height: normal;
+    margin: 0 0 (@t3-global-margin/2);
+    overflow: visible;  
+    padding: 0;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+
+    a {
+      color: inherit;
+      line-height: normal;
+      text-decoration: none;
+    }
+
+  }
+
+  p {
+    font-size: @t3-font-size-big;
+
+    a {
+      border-bottom: 1px dotted @white;
+      color: @white;      
+    }
+  }
+
+}
+
+
+// Button
+.ja-ss-btns {
+  bottom: 50px;
+  display: block;
+  left: 0;
+  position: absolute;
+  width: 82px;
+  z-index: 900;
+
+  @media screen and (min-width: @screen-md) {
+    bottom: 82px;
+  }
+
+  span {
+    background-image: url("@{t3-image-path}/sl-btn-direction.png");
+    background-repeat: no-repeat;
+    color: @white;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    text-indent: -999em;
+    width: 40px;
+    
+    &.ja-ss-prev {
+      background-position: left top;
+
+      //Link States 
+      &:hover, &:focus, &:active {
+        background-position: left bottom;
+      }
+    }
+
+    &.ja-ss-next {
+      background-position: right top;
+      float: right;
+      //Link States 
+      &:hover, &:focus, &:active {
+        background-position: right bottom;
+      }
+    }
+
+    &.ja-ss-stop,
+    &.ja-ss-playback,
+    &.ja-ss-play {
+      display: none;
+    }
+  }
+}
+
+.ja-ss-thumbs-wrap {
+  bottom: 20px;
+  clear: both;
+  height: 60px;
+  left: 50%;
+  overflow: visible;
+  position: absolute;
+  width: 100%;
+  z-index: 101;
+}
+
+.ja-ss-thumbs {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+
+  .ja-ss-thumb {
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;    
+    width: 18px;
+    height: 18px;
+    position: relative;
+
+    img {
+      background: @white;
+      display: none;
+      height: 60px;
+      left: -25px;
+      min-width: 60px !important;
+      .opacity(0);
+      position: absolute;
+      padding: @t3-global-padding / 5;   
+      top: -70px;
+      width: 60px !important;
+    } 
+
+    span {
+      background: url("@{t3-image-path}/sl-thumb.png") no-repeat left top;
+      cursor: pointer;
+      color: #191a1b;
+      display: block;
+      height: 11px;
+      margin: 0 auto;
+      text-align: center;
+      width: 11px;   
+
+      &:before {
+        border-left: 5px solid rgba(0, 0, 0, 0);
+        border-right: 5px solid rgba(0, 0, 0, 0);
+        border-top: 5px solid #FFFFFF;
+        content: "";
+        display: none;
+        height: 0;
+        left: 0;
+        margin-left: 3px;
+        .opacity(0);
+        position: absolute;
+        top: -10px;
+        width: 0;
+      }                                                 
+    }
+
+    &:hover, &:focus, &:active {
+      img {
+        display: block;
+        .opacity(1);
+      } 
+      span {
+        &:before { .opacity(1); display: block;}
+      }
+    }
+
+    &.active {
+    
+      span {
+        background-position: left bottom;
+        color: @brand-primary;
+      }
+
+       &:hover, &:focus, &:active {
+        img {
+          background: @brand-primary;
+        } 
+        span {
+          &:before { border-top-color: @brand-primary;}
+        }
+      }
+    }
+  }
+
+}
+ 
+.ja-ss-wrap.custom .ja-ss-playback,
+.ja-ss-wrap.custom .ja-ss-stop,
+.ja-ss-wrap.custom .ja-ss-play {
+  display: none;
+}
+
+.ja-ss-wrap.custom .active .ja-ss-desc {
+  left: 0;
+  min-width: 350px;
+  background: @brand-primary;
+  z-index: 1001;
+}
+
+.ja-ss-wrap.custom .ja-ss-btns {
+  bottom: 78px;
+}
+

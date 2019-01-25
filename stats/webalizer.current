@@ -1,0 +1,4570 @@
+# Webalizer V2.23-08 Incremental Data - 01/19/2019 14:32:48
+2019 1 19 14 32 48
+7394 5404 857 558 332 44 207463142 6003 1138 0
+1 1 2425 1 19
+691 438 18664024 246 609 253
+409 218 7023312 160 362 156
+484 237 6187665 222 438 237
+260 148 5681749 117 229 102
+979 599 19831409 118 889 107
+408 224 9749418 126 297 112
+3089 2669 110428831 128 2341 111
+1016 864 29418544 60 827 55
+49 4 323434 4 3 2
+7 3 153642 4 7 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 251 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 863 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+828 768 24526163 771
+97 60 3540145 82
+167 95 3038725 152
+179 95 3280959 166
+139 90 3230264 87
+194 83 3520439 131
+219 133 4830842 154
+144 86 3783392 130
+183 126 5719180 128
+163 82 2366320 146
+173 114 3824880 121
+114 66 2466258 101
+151 86 2968046 135
+381 114 4813455 373
+456 284 14178258 360
+183 110 4287994 127
+165 72 3268868 103
+242 124 4427407 145
+214 141 4607894 178
+116 68 2328898 108
+107 58 2895134 100
+117 70 2221434 105
+134 73 2245949 118
+2528 2406 95092238 1982
+0
+0
+0
+5404
+0
+0
+0
+0
+0
+0
+0
+0
+0
+612
+305
+0
+0
+0
+0
+0
+1
+88
+0
+86
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+891
+0
+0
+0
+0
+0
+# -urls- 
+/images/resized/images/sampledata/ja_university/sam-16_130_130.jpg
+1 10 0 30672 0 0
+/media/kunena/attachments/42/DSC00037_2015-01-29.jpg
+1 3 0 296850 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(1).jpg
+1 1 0 37542 0 0
+/images/sampledata/parks/animals/220px_spottedquoll_2005_seanmcclean.jpg
+1 1 0 4396 0 0
+/images/sampledata/ja_university/video-8.jpg
+1 1 0 59074 0 0
+/media/kunena/attachments/42/calculo1.jpg
+1 1 0 61877 0 0
+/t3-assets/css/css-bf3d8.css
+0 14 0 1318030 0 0
+/media/kunena/avatars/resized/size36/users/avatar42.png
+1 1 0 1639 0 0
+/images/sampledata/ja_university/sam-8.jpg
+1 1 0 29937 0 0
+/images/sampledata/parks/animals/800px_koala_ag1.jpg
+1 1 0 11207 0 0
+/media/kunena/emoticons/shocked.png
+1 1 0 783 0 0
+/modules/mod_jaslideshowlite/assets/js/iefix.js
+0 1 0 1466 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-21.png
+1 1 0 52501 0 0
+/templates/ja_university_t3/images/system/arrow.png
+1 4 0 2910 0 0
+/media/kunena/avatars/resized/size90/blue_eagle/s_nophoto.jpg
+1 1 0 671 0 0
+/media/kunena/attachments/42/Practico4.docx
+0 1 0 73661 0 0
+/media/kunena/attachments/42/tema-calculo-1-7.png
+1 1 0 51050 0 0
+/images/resized/images/sampledata/slideshow/Foto-1_960_400.jpg
+1 10 0 435330 0 0
+/media/kunena/emoticons/wink.png
+1 1 0 786 0 0
+/media/kunena/avatars/resized/size200/blue_eagle/nophoto.jpg
+1 1 0 3686 0 0
+/components/com_kunena/template/blue_eagle/images/msgtitleicon.gif
+1 4 0 357 0 0
+/media/kunena/avatars/resized/size36/blue_eagle/s_nophoto.jpg
+1 1 0 849 0 0
+/media/kunena/attachments/42/calculo-II-integracion-4.png
+1 1 0 73324 0 0
+/media/kunena/attachments/42/DSC00020.png
+1 2 0 2120206 0 0
+/t3-assets/js/js-006a8.js
+0 9 0 2622473 0 0
+/media/kunena/attachments/42/DSC00093.jpg
+1 1 0 67377 0 0
+/media/kunena/attachments/42/DSC00094.jpg
+1 1 0 69716 0 0
+/media/kunena/emoticons/unsure.png
+1 1 0 783 0 0
+/media/kunena/attachments/42/DSC00034.jpg
+1 1 0 96156 0 0
+/media/kunena/attachments/42/DSC00083.jpg
+1 1 0 64846 0 0
+/media/kunena/attachments/42/DSC00115.jpg
+1 1 0 87312 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-15.png
+1 1 0 90837 0 0
+/media/kunena/attachments/42/11.jpg
+1 2 0 297710 0 0
+/components/com_kunena/template/blue_eagle/images/icons/favoritestar.png
+1 1 0 493 0 0
+/media/kunena/attachments/42/23.jpg
+1 1 0 105994 0 0
+/templates/ja_university_t3/images/system/videoplayer-bg.gif
+1 1 0 2474 0 0
+/components/com_kunena/template/blue_eagle/images/arrow-up.png
+1 1 0 197 0 0
+/images/resized/images/sampledata/slideshow/Foto-9_960_400.jpg
+1 10 0 388488 0 0
+/media/kunena/attachments/42/17.jpg
+1 1 0 129940 0 0
+/media/kunena/attachments/42/DSC00106.jpg
+1 1 0 89935 0 0
+/images/sampledata/ja_university/Licenciado1.jpg
+1 10 0 152850 0 0
+/templates/ja_university_t3/images/icon-user.png
+1 1 0 362 0 0
+/components/com_kunena/template/blue_eagle/images/treenodes-ltr.png
+1 1 0 767 0 0
+/templates/ja_university_t3/images/sl-thumb.png
+1 1 0 1108 0 0
+/templates/ja_university_t3/images/system/searchLoader.gif
+1 1 0 723 0 0
+/media/kunena/attachments/42/PRIMERPARCIALDEALGEBRA1-2001.png
+1 1 0 61353 0 0
+/media/kunena/emoticons/blink.png
+1 1 0 779 0 0
+/components/com_kunena/template/blue_eagle/images/bar.png
+1 1 0 107 0 0
+/media/kunena/attachments/42/prac-4b.png
+1 1 0 70327 0 0
+/media/kunena/attachments/42/PRIMER_PARCIAL_DE_ALGEBRA_1.docx
+0 1 0 25254 0 0
+/media/kunena/topic_icons/default/user/default.png
+1 1 0 578 0 0
+/t3-assets/js/js-6b5c0.js
+0 1 0 82011 0 0
+/components/com_kunena/template/blue_eagle/images/icon-locked.png
+1 1 0 483 0 0
+/images/sampledata/ja_university/sam-24.jpg
+1 1 0 78087 0 0
+/media/kunena/emoticons/grin.png
+1 1 0 796 0 0
+/media/kunena/attachments/42/PRIMERPARCIALDEALGEBRA-2002-1.png
+1 1 0 70367 0 0
+/media/kunena/attachments/42/algebra-12-5.png
+1 3 0 379461 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-4-4.png
+1 2 0 103924 0 0
+/media/kunena/attachments/42/tema-calculo-1-10.png
+1 3 0 149118 0 0
+/templates/ja_university_t3/images/fugue/feed.png
+1 1 0 658 0 0
+/images/resized/images/sampledata/slideshow/Foto-8_960_400.jpg
+1 10 0 332220 0 0
+/media/kunena/attachments/42/calculo-11-2-II.png
+1 1 0 74379 0 0
+/media/kunena/attachments/42/calculo-II-integracion-9.png
+1 2 0 141588 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-4.png
+1 1 0 76903 0 0
+/images/resized/images/sampledata/slideshow/Foto-7_960_400.jpg
+1 10 0 492924 0 0
+/images/sampledata/ja_university/sam-26.jpg
+1 1 0 76457 0 0
+/images/resized/images/sampledata/ja_university/sam-19_130_130.jpg
+1 10 0 36624 0 0
+/components/com_kunena/template/blue_eagle/images/expand.gif
+1 1 0 76 0 0
+/templates/ja_university_t3/fonts/font-awesome/fonts/fontawesome-webfont.eot
+0 2 0 112012 0 0
+/t3-assets/js/js-2a027.js
+0 1 0 74871 0 0
+/templates/ja_university_t3/fonts/font-awesome/fonts/fontawesome-webfont.svg
+0 1 0 287007 0 0
+/media/kunena/attachments/42/Practico1.docx
+0 1 0 18271 0 0
+/media/kunena/attachments/42/2-2.jpg
+1 2 0 275692 0 0
+/media/kunena/attachments/42/PRIMER-PARCIAL-CALCULO-II-2014.png
+1 1 0 13403 0 0
+/t3-assets/css/css-1b225.css
+0 2 0 842 0 0
+/media/kunena/attachments/42/8.jpg
+1 1 0 130366 0 0
+/components/com_kunena/template/blue_eagle/images/icons/folder_nonew.png
+1 1 0 825 0 0
+/media/kunena/attachments/42/15.jpg
+1 1 0 120155 0 0
+/media/editors/tinymce/tinymce.min.js
+0 1 0 302335 0 0
+/media/kunena/attachments/42/DSC00018_2015-01-26.png
+1 2 0 1119763 0 0
+/media/kunena/attachments/42/33.jpg
+1 1 0 108116 0 0
+/media/kunena/attachments/42/18.jpg
+1 1 0 136375 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-9.png
+1 2 0 49747 0 0
+/components/com_kunena/template/blue_eagle/images/icons/folder_sm.png
+1 1 0 383 0 0
+/media/kunena/attachments/42/DSC00102.jpg
+1 1 0 87987 0 0
+/images/sampledata/parks/landscape/800px_ormiston_pound.jpg
+1 1 0 9504 0 0
+/media/kunena/attachments/42/1-2.jpg
+1 1 0 134486 0 0
+/media/kunena/attachments/42/CALCULOIPDF.pdf
+0 1 0 2035012 0 0
+/media/kunena/attachments/42/calculo-2--1parcial.png
+1 1 0 23821 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-4-2.png
+1 1 0 57805 0 0
+/components/com_kunena/template/blue_eagle/images/msgtitlenew.gif
+1 1 0 119 0 0
+/media/kunena/attachments/42/algebra-8-5.png
+1 2 0 113902 0 0
+/images/resized/images/sampledata/slideshow/Foto-3_960_400.jpg
+1 10 0 474822 0 0
+/media/kunena/attachments/42/practicocal2.png
+1 1 0 183661 0 0
+/images/sampledata/ja_university/sam-23.jpg
+1 1 0 81248 0 0
+/plugins/system/t3/base-bs3/fonts/font-awesome/font/fontawesome-webfont.svg
+0 1 0 197829 0 0
+/media/kunena/attachments/42/practico-1-estadisticas.png
+1 2 0 44242 0 0
+/plugins/system/t3/base-bs3/fonts/font-awesome/font/fontawesome-webfont.ttf
+0 1 0 79076 0 0
+/media/kunena/attachments/42/calculo-3-2-II.png
+1 1 0 62573 0 0
+/images/sampledata/ja_university/banner2.jpg
+1 1 0 63890 0 0
+/media/kunena/emoticons/w00t.png
+1 1 0 709 0 0
+/media/kunena/attachments/42/calculo-II-integracion-12.png
+1 2 0 143468 0 0
+/media/kunena/emoticons/blush.png
+1 1 0 522 0 0
+/media/kunena/attachments/42/CALCULO_I_Parcial1-2000.docx
+0 1 0 15806 0 0
+/images/sampledata/ja_university/sam-16.jpg
+1 1 0 25434 0 0
+/media/kunena/attachments/42/12.jpg
+1 1 0 121481 0 0
+/components/com_kunena/template/blue_eagle/images/unpublish.png
+1 1 0 430 0 0
+/media/kunena/attachments/42/prac-exa-cal2-2014.png
+1 1 0 23178 0 0
+/images/resized/images/sampledata/ja_university/sam-3_130_130.jpg
+1 10 0 30798 0 0
+/media/kunena/attachments/42/prac-3b.png
+1 1 0 94427 0 0
+/templates/ja_university_t3/images/slideloading.gif
+1 9 0 41190 0 0
+/media/kunena/attachments/42/CAPTULO-CONJUNTOS-ALGEBRA.pdf
+0 1 0 462033 0 0
+/media/kunena/attachments/42/algebra2.jpg
+1 2 0 97278 0 0
+/images/sampledata/ja_university/sam-1.jpg
+1 1 0 45290 0 0
+/media/kunena/attachments/42/tema-calculo-1-11.png
+1 1 0 47505 0 0
+/media/kunena/attachments/42/calculo-II-integracion-10.png
+1 1 0 54965 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-3.png
+1 1 0 67770 0 0
+/components/com_kunena/template/blue_eagle/media/iconsets/editor/default/default.png
+1 1 0 3150 0 0
+/media/kunena/attachments/42/tema-calculo-1-26.png
+1 3 0 303219 0 0
+/t3-assets/css/css-b8db2.css
+0 1 0 21954 0 0
+/components/com_kunena/template/blue_eagle/images/arrow-down.png
+1 1 0 192 0 0
+/media/kunena/attachments/42/tema-calculo-1-9.png
+1 2 0 121206 0 0
+/t3-assets/js/js-d2239.js
+0 1 0 68238 0 0
+/media/kunena/attachments/42/DSC00080.jpg
+1 1 0 95456 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-23.png
+1 1 0 63675 0 0
+/media/kunena/attachments/42/calculo2.jpg
+1 2 0 93650 0 0
+/media/kunena/attachments/42/tema-calculo-1-21.png
+1 1 0 101917 0 0
+/templates/ja_university_t3/images/icon-folder.png
+1 1 0 320 0 0
+/media/kunena/attachments/42/9.jpg
+1 2 0 241452 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-8.png
+1 1 0 75349 0 0
+/media/kunena/attachments/42/21.jpg
+1 2 0 214218 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(6).jpg
+1 1 0 67795 0 0
+/images/resized/images/sampledata/slideshow/Foto-10_960_400.jpg
+1 10 0 451758 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-17.png
+1 1 0 44140 0 0
+/media/kunena/attachments/42/28.jpg
+1 1 0 120464 0 0
+/media/kunena/attachments/42/tema-calculo-1-12.png
+1 1 0 28867 0 0
+/images/sampledata/ja_university/sam-10.jpg
+1 1 0 28207 0 0
+/components/com_kunena/template/blue_eagle/images/shrink.gif
+1 4 0 219 0 0
+/media/kunena/attachments/42/calculo-II-integracion-15.png
+1 1 0 66153 0 0
+/images/sampledata/parks/landscape/120px_pinnacles_western_australia.jpg
+1 1 0 1319 0 0
+/media/kunena/attachments/42/5.jpg
+1 1 0 105370 0 0
+/media/kunena/attachments/42/31.jpg
+1 1 0 127086 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-1.png
+1 1 0 76748 0 0
+/media/kunena/avatars/resized/size90/users/avatar42.png
+1 1 0 7511 0 0
+/media/kunena/attachments/42/Primer-parcial-de-calculo-I-2001-I.png
+1 1 0 22194 0 0
+/templates/ja_university_t3/images/logo.png
+1 10 0 162270 0 0
+/media/system/images/pdf_button.png
+1 1 0 413 0 0
+/templates/ja_university_t3/images/btn-control.png
+1 10 0 9264 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-2.png
+1 1 0 79242 0 0
+/images/sampledata/ja_university/video-1.jpg
+1 1 0 57843 0 0
+/media/kunena/attachments/42/calculo-14-2-II.png
+1 1 0 86810 0 0
+/components/com_kunena/template/blue_eagle/images/icons/tmoder.gif
+1 1 0 579 0 0
+/modules/mod_vvisit_counter/images/tbl/calendar/vweek.gif
+1 10 0 576 0 0
+/components/com_kunena/template/blue_eagle/images/icons/bottom_arrow.gif
+1 4 0 273 0 0
+/images/sampledata/ja_university/sam-21.jpg
+1 1 0 58683 0 0
+/media/kunena/attachments/42/calculo-16-2-II.png
+1 2 0 199366 0 0
+/media/kunena/attachments/42/DSC00058.jpg
+1 2 0 68587 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-4-0.png
+1 1 0 91937 0 0
+/images/sampledata/ja_university/video-2.jpg
+1 1 0 86877 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-6.png
+1 1 0 110489 0 0
+/media/kunena/attachments/42/algebra-0-5.png
+1 3 0 176532 0 0
+/components/com_kunena/template/blue_eagle/images/mediabox_overlay.png
+1 1 0 96 0 0
+/images/sampledata/ja_university/k2.png
+1 1 0 35602 0 0
+/media/kunena/attachments/42/algebra-3-5.png
+1 3 0 161454 0 0
+/templates/ja_university_t3/images/trans-d40.png
+1 1 0 1722 0 0
+/media/kunena/attachments/42/prac-3a.png
+1 1 0 25893 0 0
+/media/kunena/avatars/resized/size144/blue_eagle/nophoto.jpg
+1 1 0 3686 0 0
+/images/sampledata/ja_university/sam-12.jpg
+1 1 0 91579 0 0
+/media/kunena/attachments/42/1.jpg
+1 2 0 178612 0 0
+/media/kunena/attachments/42/DSC00101.jpg
+1 2 0 178304 0 0
+/media/kunena/attachments/42/26.jpg
+1 2 0 116132 0 0
+/images/sampledata/ja_university/sam-17.jpg
+1 1 0 30824 0 0
+/media/kunena/attachments/42/calculo-II-integracion-17.png
+1 1 0 58873 0 0
+/media/kunena/attachments/42/DSC00207.jpg
+1 2 0 118192 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-13.png
+1 1 0 55059 0 0
+/images/sampledata/ja_university/video-4.jpg
+1 1 0 73800 0 0
+/media/kunena/attachments/42/DSC00057.jpg
+1 2 0 59134 0 0
+/t3-assets/js/js-614b6.js
+0 1 0 408116 0 0
+/media/kunena/attachments/42/prac-5b.png
+1 1 0 145756 0 0
+/media/kunena/attachments/42/primer_parcial_calculo_II.docx
+0 1 0 13480 0 0
+/media/kunena/emoticons/dizzy.png
+1 1 0 784 0 0
+/media/kunena/attachments/42/DSC00063.jpg
+1 1 0 68669 0 0
+/media/kunena/attachments/42/algebra-2-5_2015-08-14.png
+1 2 0 131970 0 0
+/t3-assets/js/js-d313e.js
+0 22 0 2300112 0 0
+/images/sampledata/ja_university/pss-5.jpg
+1 1 0 11995 0 0
+/t3-assets/js/js-ba802.js
+0 12 0 2602760 0 0
+/media/kunena/attachments/42/Practico_1_matematicas_financiera.docx
+0 1 0 33732 0 0
+/media/kunena/attachments/42/prac-4a.png
+1 2 0 181326 0 0
+/media/kunena/attachments/42/PrimerParcialdeMat.Financiera2002.png
+1 3 0 94590 0 0
+/images/sampledata/ja_university/pss-4.jpg
+1 1 0 12343 0 0
+/media/kunena/attachments/42/calculo-13-2-II.png
+1 1 0 91840 0 0
+/components/com_kunena/template/blue_eagle/images/icons/lock_sm.png
+1 1 0 483 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-9.png
+1 1 0 89510 0 0
+/templates/ja_university_t3/images/system/font_increase.gif
+1 1 0 197 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(3).jpg
+1 1 0 64236 0 0
+/media/kunena/attachments/42/PRIMERPARCIALDEALGEBRA-2002.png
+1 1 0 36623 0 0
+/templates/ja_university_t3/favicon.ico
+0 13 0 9200 0 0
+/media/kunena/emoticons/ermm.png
+1 1 0 777 0 0
+/media/kunena/attachments/42/calculo-6-2-II.png
+1 1 0 80542 0 0
+/media/kunena/attachments/42/tema-calculo-1-4.png
+1 1 0 42847 0 0
+/images/resized/images/sampledata/slideshow/Foto-5_960_400.jpg
+1 10 0 346740 0 0
+/templates/ja_university_t3/images/system/featuredItem.png
+1 1 0 3351 0 0
+/media/kunena/attachments/42/DSC00098.jpg
+1 2 0 177192 0 0
+/media/kunena/emoticons/cheerful.png
+1 1 0 782 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-5.png
+1 2 0 229602 0 0
+/media/kunena/attachments/42/algebra-2do-parcial-2000_2015-03-01.png
+1 1 0 21890 0 0
+/templates/ja_university_t3/images/bullet-w-ltr.gif
+1 1 0 1099 0 0
+/templates/ja_university_t3/images/bullet-dark-ltr.gif
+1 10 0 6594 0 0
+/media/kunena/attachments/42/tema-calculo-1-14.png
+1 1 0 48642 0 0
+/media/kunena/attachments/42/35.jpg
+1 1 0 133299 0 0
+/modules/mod_vvisit_counter/images/tbl/calendar/vmonth.gif
+1 10 0 576 0 0
+/media/kunena/attachments/42/calculo-20-2-II.png
+1 1 0 96736 0 0
+/media/kunena/avatars/resized/size144/users/avatar42.png
+1 4 0 47115 0 0
+/plugins/system/t3/base-bs3/js/respond.min.js
+0 1 0 4377 0 0
+/images/sampledata/ja_university/video-5.jpg
+1 1 0 86148 0 0
+/media/kunena/attachments/42/DSC00026_2015-01-26.jpg
+1 2 0 1516000 0 0
+/media/kunena/ranks/rank1.gif
+1 1 0 805 0 0
+/media/kunena/attachments/42/DSC00096.jpg
+1 3 0 182758 0 0
+/media/kunena/attachments/42/CAPITULO-3-ALGEBRA.pdf
+0 1 0 533088 0 0
+/images/sampledata/parks/landscape/250px_cradle_mountain_seen_from_barn_bluff.jpg
+1 1 0 4842 0 0
+/media/kunena/attachments/42/prac-5c.png
+1 1 0 123424 0 0
+/images/sampledata/ja_university/sam-19.jpg
+1 1 0 36568 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-22.png
+1 1 0 57672 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-2.png
+1 2 0 174420 0 0
+/media/kunena/attachments/42/DSC00062.jpg
+1 1 0 71032 0 0
+/media/kunena/attachments/42/algebra-11-5.png
+1 2 0 397462 0 0
+/media/kunena/attachments/42/calculo-II-integracion-13.png
+1 1 0 72121 0 0
+/media/kunena/attachments/42/PRIMER_EXAMEN_PRACTICO_CALCULO_II.docx
+0 1 0 13397 0 0
+/images/sampledata/ja_university/sam-5.jpg
+1 1 0 25878 0 0
+/media/kunena/attachments/42/DSC00056.jpg
+1 2 0 252322 0 0
+/t3-assets/js/js-30f7a.js
+0 2 0 136476 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-0.png
+1 2 0 222196 0 0
+/media/kunena/emoticons/devil.png
+1 1 0 827 0 0
+/media/kunena/attachments/42/tema-calculo-1-18.png
+1 1 0 74392 0 0
+/t3-assets/js/js-9fc45.js
+0 1 0 393448 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-0.png
+1 2 0 189780 0 0
+/media/kunena/attachments/42/DSC00089.jpg
+1 1 0 70012 0 0
+/media/kunena/attachments/42/calculo-II-integracion-5.png
+1 1 0 66201 0 0
+/media/kunena/attachments/42/algebra-examen-final-2000.png
+1 2 0 28592 0 0
+/components/com_kunena/template/blue_eagle/images/icons/who_is_online.png
+1 1 0 1565 0 0
+/images/sampledata/parks/landscape/120px_rainforest_bluemountainsnsw.jpg
+1 1 0 4607 0 0
+/media/kunena/attachments/42/10.jpg
+1 2 0 224628 0 0
+/media/kunena/attachments/42/algebra-6-5.png
+1 3 0 118610 0 0
+/components/com_kunena/template/blue_eagle/images/publish.png
+1 1 0 361 0 0
+/media/kunena/attachments/42/tema-calculo-1-1.png
+1 2 0 322354 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-3.png
+1 1 0 63630 0 0
+/media/kunena/attachments/42/calculo-5-2-II.png
+1 2 0 133056 0 0
+/media/kunena/attachments/42/prac-3c.png
+1 2 0 238468 0 0
+/components/com_k2/js/k2.js
+0 14 0 64088 0 0
+/media/kunena/attachments/42/practicocal3.png
+1 1 0 100559 0 0
+/media/kunena/attachments/42/22.jpg
+1 1 0 117983 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-12.png
+1 2 0 203572 0 0
+/components/com_kunena/template/blue_eagle/images/icons/folder_nonew_sm.png
+1 1 0 363 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-6.png
+1 2 0 71728 0 0
+/media/kunena/attachments/42/calculo-15-2-II.png
+1 2 0 208726 0 0
+/components/com_kunena/template/blue_eagle/images/icons/top_arrow.gif
+1 4 0 273 0 0
+/media/kunena/attachments/42/00.jpg
+1 2 0 220228 0 0
+/media/kunena/attachments/42/DSC00097.jpg
+1 1 0 112343 0 0
+/media/kunena/attachments/42/tema-calculo-1-23.png
+1 1 0 65146 0 0
+/images/sampledata/ja_university/sam-13.jpg
+1 1 0 75353 0 0
+/media/system/images/notice-alert.png
+1 1 0 874 0 0
+/images/sampledata/ja_university/jorge duran parada.jpg
+1 10 0 455424 0 0
+/t3-assets/css/css-96873.css
+0 7 0 1141010 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-9.png
+1 3 0 184344 0 0
+/media/kunena/attachments/42/practico-1-estadisticas-1.png
+1 1 0 84669 0 0
+/media/kunena/attachments/42/DSC00060.jpg
+1 1 0 65476 0 0
+/images/sampledata/ja_university/banner4.jpg
+1 1 0 43213 0 0
+/images/resized/images/sampledata/ja_university/sam-2_130_130.jpg
+1 10 0 55740 0 0
+/templates/ja_university_t3/images/ico/icon-calendar.png
+1 1 0 1034 0 0
+/media/kunena/attachments/42/DSC00084.jpg
+1 1 0 84104 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-3.png
+1 2 0 91734 0 0
+/media/kunena/attachments/42/PRIMER_PARCIAL_DE_ALGEBRA_2.docx
+0 1 0 13405 0 0
+/templates/ja_university_t3/fonts/font-awesome/fonts/fontawesome-webfont.woff
+0 12 0 523616 0 0
+/media/kunena/avatars/resized/size200/users/avatar42.png
+1 1 0 26157 0 0
+/templates/ja_university_t3/images/system/transparent_star.gif
+1 1 0 1024 0 0
+/images/sampledata/ja_university/video-6.jpg
+1 1 0 78623 0 0
+/media/kunena/attachments/42/tema-calculo-1-00.png
+1 2 0 127650 0 0
+/templates/ja_university_t3/images/sl-btn-direction.png
+1 10 0 7590 0 0
+/media/kunena/attachments/42/calculo-18-2-II.png
+1 1 0 70952 0 0
+/t3-assets/js/js-2fd98.js
+0 1 0 339118 0 0
+/media/kunena/attachments/42/DSC00088.jpg
+1 2 0 73010 0 0
+/administrator/
+0 720 0 4965963 297 83
+/components/com_kunena/template/blue_eagle/media/iconsets/buttons/default/default.png
+1 4 0 7383 0 0
+/media/kunena/attachments/42/tema-calculo-1-16.png
+1 2 0 70628 0 0
+/media/kunena/attachments/42/tema-calculo-1-5.png
+1 1 0 59809 0 0
+/images/sampledata/ja_university/noviembre 441.jpg
+1 10 0 700824 0 0
+/media/kunena/attachments/42/exa-algebra-2001.png
+1 1 0 14477 0 0
+/components/com_kunena/template/blue_eagle/images/bullet-tips.gif
+1 1 0 998 0 0
+/media/kunena/attachments/42/DSC00184.jpg
+1 2 0 169626 0 0
+/images/sampledata/parks/banner_cradle.jpg
+1 1 0 28427 0 0
+/components/com_kunena/template/blue_eagle/images/icons/poll.png
+1 1 0 954 0 0
+/t3-assets/css/css-80363.css
+0 1 0 169293 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-10.png
+1 1 0 121519 0 0
+/media/kunena/attachments/42/calculo-II-integracion-16.png
+1 1 0 59631 0 0
+/media/kunena/emoticons/smile.png
+1 1 0 796 0 0
+/images/sampledata/ja_university/sam-11.jpg
+1 1 0 61747 0 0
+/templates/ja_university_t3/images/bullet-red-ltr.gif
+1 1 0 1099 0 0
+/templates/ja_university_t3/images/bullet2-ltr.gif
+1 1 0 1099 0 0
+/media/kunena/attachments/42/tema-calculo-1-29.png
+1 1 0 103430 0 0
+/media/kunena/attachments/42/3.jpg
+1 2 0 203388 0 0
+/media/kunena/attachments/42/Practico3.docx
+0 1 0 116564 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-8.png
+1 2 0 87818 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-5.png
+1 2 0 74632 0 0
+/t3-assets/js/js-37a07.js
+0 1 0 325345 0 0
+/media/kunena/emoticons/angry.png
+1 1 0 788 0 0
+/media/kunena/attachments/42/algebra-4-5.png
+1 3 0 286050 0 0
+/media/kunena/attachments/42/DSC00059.jpg
+1 2 0 54267 0 0
+/media/kunena/attachments/42/algegra1.jpg
+1 1 0 50569 0 0
+/media/kunena/attachments/42/ALGEBRA-Parcial1-2000.docx
+0 1 0 29547 0 0
+/t3-assets/css/css-84500.css
+0 16 0 1708040 0 0
+/media/kunena/attachments/42/tema-calculo-1-20.png
+1 2 0 257490 0 0
+/components/com_kunena/template/blue_eagle/images/loading.gif
+1 1 0 1588 0 0
+/images/sampledata/ja_university/sam-9.jpg
+1 1 0 31850 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-19.png
+1 2 0 148646 0 0
+/images/resized/images/sampledata/ja_university/sam-5_130_130.jpg
+1 10 0 32472 0 0
+/media/kunena/attachments/42/DSC00113.jpg
+1 1 0 124104 0 0
+/media/kunena/attachments/42/tema-calculo-1-8.png
+1 3 0 124443 0 0
+/media/kunena/attachments/42/DSC00099.jpg
+1 1 0 115015 0 0
+/media/kunena/attachments/42/DSC00114.jpg
+1 1 0 105144 0 0
+/media/kunena/attachments/42/calculo-7-2-II.png
+1 1 0 58962 0 0
+/modules/mod_vvisit_counter/images/tbl/calendar/vall.gif
+1 10 0 828 0 0
+/plugins/system/t3/base-bs3/fonts/font-awesome/font/fontawesome-webfont.eot
+0 2 0 74810 0 0
+/media/kunena/attachments/42/prac-2.png
+1 2 0 344082 0 0
+/components/com_kunena/template/blue_eagle/images/icons/stats.png
+1 1 0 1314 0 0
+/media/system/css/system.css
+0 19 0 14460 0 0
+/media/kunena/attachments/42/30.jpg
+1 2 0 225550 0 0
+/media/kunena/attachments/42/calculo-19-2-II.png
+1 2 0 172084 0 0
+/media/kunena/attachments/42/tema-calculo-1-15.png
+1 2 0 92022 0 0
+/media/kunena/emoticons/sick.png
+1 1 0 771 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-1.png
+1 2 0 117004 0 0
+/media/kunena/attachments/42/DSC00055.jpg
+1 2 0 76668 0 0
+/media/kunena/attachments/42/DSC00206.jpg
+1 2 0 132602 0 0
+/components/com_kunena/template/blue_eagle/images/icons/rss.png
+1 4 0 3549 0 0
+/templates/ja_university_t3/images/system/font_decrease.gif
+1 1 0 138 0 0
+/media/kunena/attachments/42/DSC00038_2015-01-29.jpg
+1 1 0 88732 0 0
+/media/kunena/attachments/42/prac-2a2.png
+1 1 0 183537 0 0
+/t3-assets/js/js-80858.js
+0 1 0 339118 0 0
+/media/kunena/attachments/42/prac-2b_2014-12-14.png
+1 1 0 48236 0 0
+/images/sampledata/ja_university/video-7.jpg
+1 1 0 86116 0 0
+/media/kunena/attachments/42/algebra-15-5.png
+1 2 0 362886 0 0
+/media/kunena/attachments/42/DSC00181.jpg
+1 1 0 81624 0 0
+/media/kunena/attachments/42/29.jpg
+1 2 0 180174 0 0
+/media/kunena/attachments/42/7.jpg
+1 1 0 130577 0 0
+/media/kunena/attachments/42/tema-calculo-1-33.png
+1 1 0 74289 0 0
+/media/kunena/attachments/42/DSC00036_2015-01-29.jpg
+1 1 0 108801 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-11.png
+1 1 0 38801 0 0
+/images/sampledata/ja_university/pss-2.jpg
+1 1 0 12361 0 0
+/components/com_kunena/template/blue_eagle/images/icons/favoritestar-grey.png
+1 1 0 271 0 0
+/media/kunena/attachments/42/calculo-21-2-II.png
+1 1 0 27121 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-8_2015-01-29.png
+1 1 0 138744 0 0
+/media/kunena/emoticons/kissing.png
+1 1 0 788 0 0
+/images/sampledata/ja_university/sam-4.jpg
+1 1 0 38544 0 0
+/images/resized/images/sampledata/slideshow/Foto-6_960_400.jpg
+1 10 0 380172 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-10.png
+1 2 0 164006 0 0
+/media/kunena/attachments/42/algebra-16-5.png
+1 3 0 245712 0 0
+/plugins/system/t3/base-bs3/fonts/font-awesome/font/fontawesome-webfont.woff
+0 7 0 174288 0 0
+/media/kunena/attachments/42/DSC00035.jpg
+1 1 0 100717 0 0
+/t3-assets/js/js-5b5d9.js
+0 1 0 325821 0 0
+/media/kunena/attachments/42/calculo-II-integracion-2.png
+1 2 0 319856 0 0
+/media/kunena/attachments/42/DSC00100.jpg
+1 1 0 91778 0 0
+/media/kunena/attachments/42/algebra-9-5.png
+1 2 0 190348 0 0
+/components/com_kunena/template/blue_eagle/images/icons/arrow.png
+1 4 0 354 0 0
+/templates/ja_university_t3/images/bullet-red.gif
+1 1 0 1099 0 0
+/media/kunena/attachments/42/solucion-1-ex-algebra-2005.jpg
+1 1 0 123880 0 0
+/media/kunena/attachments/42/tema-calculo-1-25.png
+1 1 0 88602 0 0
+/t3-assets/js/js-28942.js
+0 1 0 325345 0 0
+/t3-assets/css/css-bcd1c.css
+0 7 0 676188 0 0
+/media/kunena/attachments/42/algebra-2-5.png
+1 3 0 197955 0 0
+/media/kunena/attachments/42/DSC00027_2015-01-26.jpg
+1 1 0 695814 0 0
+/images/sampledata/ja_university/sam-7.jpg
+1 1 0 29671 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-5.png
+1 2 0 168062 0 0
+/media/kunena/attachments/42/DSC00105.jpg
+1 1 0 95367 0 0
+/media/kunena/attachments/42/practicocal1_2014-12-14.png
+1 1 0 131667 0 0
+/templates/ja_university_t3/images/bullet2.gif
+1 10 0 6594 0 0
+/media/kunena/attachments/42/DSC00091.jpg
+1 1 0 59375 0 0
+/media/kunena/attachments/42/2.jpg
+1 1 0 79147 0 0
+/media/kunena/attachments/42/DSC00204.jpg
+1 1 0 89940 0 0
+/images/ja-university.png
+1 1 0 194629 0 0
+/media/kunena/attachments/42/DSC00183.jpg
+1 2 0 179826 0 0
+/media/kunena/attachments/42/24.jpg
+1 2 0 242118 0 0
+/images/sampledata/parks/landscape/727px_rainforest_bluemountainsnsw.jpg
+1 1 0 10906 0 0
+/media/kunena/attachments/42/Practico_2_matematicas_financiera.docx
+0 1 0 18607 0 0
+/images/sampledata/parks/animals/800px_wobbegong.jpg
+1 1 0 17312 0 0
+/media/kunena/attachments/42/DSC00104.jpg
+1 1 0 81283 0 0
+/media/kunena/attachments/42/practico-1-estadisticas-2.png
+1 1 0 22009 0 0
+/media/kunena/attachments/42/calculo-9-2-II.png
+1 2 0 114166 0 0
+/media/kunena/attachments/42/DSC00185.jpg
+1 1 0 75188 0 0
+/media/kunena/attachments/42/calculo-8-2-II.png
+1 1 0 102705 0 0
+/media/kunena/attachments/42/Mat.Financiera-2001_2015-01-03.png
+1 1 0 46914 0 0
+/media/kunena/attachments/42/calculo-0-2-II.png
+1 2 0 173440 0 0
+/images/sampledata/ja_university/pss-1.jpg
+1 1 0 11863 0 0
+/templates/ja_university_t3/images/fugue/mail.png
+1 1 0 494 0 0
+/media/kunena/attachments/42/DSC00054.jpg
+1 2 0 99999 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-4-3.png
+1 1 0 77051 0 0
+/images/sampledata/ja_university/sam-25.jpg
+1 1 0 51980 0 0
+/media/kunena/attachments/42/Practico2.docx
+0 1 0 29199 0 0
+/images/sampledata/parks/landscape/800px_pinnacles_western_australia.jpg
+1 1 0 15759 0 0
+/images/resized/images/sampledata/slideshow/Foto-2_960_400.jpg
+1 11 0 609816 0 0
+/media/kunena/emoticons/whistling.png
+1 1 0 812 0 0
+/media/kunena/emoticons/tongue.png
+1 1 0 785 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-0.png
+1 1 0 83185 0 0
+/images/sampledata/parks/animals/800px_phyllopteryx_taeniolatus1.jpg
+1 1 0 12404 0 0
+/media/kunena/attachments/42/DSC00203.jpg
+1 1 0 107045 0 0
+/media/system/images/notice-note.png
+1 1 0 786 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-11.png
+1 1 0 86780 0 0
+/media/kunena/attachments/42/tema-calculo-1-22.png
+1 1 0 112393 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-16.png
+1 1 0 115323 0 0
+/media/kunena/attachments/42/DSC00182.jpg
+1 2 0 194308 0 0
+/media/kunena/attachments/42/calculo-12-2-II.png
+1 2 0 140452 0 0
+/media/kunena/attachments/42/tema-calculo-1-6.png
+1 1 0 61180 0 0
+/images/sampledata/ja_university/sam-22.jpg
+1 1 0 50654 0 0
+/media/kunena/attachments/42/calculo-II-integracion-14.png
+1 1 0 60166 0 0
+/media/kunena/attachments/42/calculo-II-integracion-7.png
+1 1 0 48112 0 0
+/media/kunena/attachments/42/calculo-II-integracion-6.png
+1 1 0 78269 0 0
+/t3-assets/js/js-7feb7.js
+0 1 0 93389 0 0
+/media/kunena/ranks/rankadmin.gif
+1 4 0 1632 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-14.png
+1 2 0 56604 0 0
+/media/kunena/attachments/42/20.jpg
+1 1 0 105439 0 0
+/media/kunena/attachments/42/DSC00205.jpg
+1 1 0 62591 0 0
+/media/kunena/attachments/42/27.jpg
+1 1 0 113536 0 0
+/templates/ja_university_t3/images/system/loading.gif
+1 1 0 1749 0 0
+/images/sampledata/parks/landscape/800px_cradle_mountain_seen_from_barn_bluff.jpg
+1 1 0 10670 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-24.png
+1 1 0 26705 0 0
+/t3-assets/css/css-65d06.css
+0 1 0 173068 0 0
+/
+0 3682 0 128324297 830 299
+/t3-assets/js/js-b0d78.js
+0 1 0 58675 0 0
+/images/resized/images/sampledata/ja_university/sam-1_130_130.jpg
+1 10 0 58326 0 0
+/images/resized/images/sampledata/ja_university/sam-6_130_130.jpg
+1 10 0 35508 0 0
+/media/kunena/attachments/42/Primer-Parcial-de-calculoI2002-I.png
+1 1 0 22538 0 0
+/media/kunena/attachments/42/calculo-1-2-II.png
+1 2 0 132498 0 0
+/images/sampledata/parks/animals/180px_wobbegong.jpg
+1 1 0 4616 0 0
+/media/kunena/attachments/42/calculo-2-sistemas-1-parcial.png
+1 1 0 272237 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(4).jpg
+1 1 0 75860 0 0
+/media/kunena/attachments/42/calculo-II-integracion-11.png
+1 1 0 67180 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-10.png
+1 2 0 134110 0 0
+/media/kunena/attachments/42/PRIMERPARCIALDEALGEBRA1-2001-1.png
+1 2 0 7952 0 0
+/media/kunena/attachments/42/19.jpg
+1 1 0 129216 0 0
+/components/com_kunena/template/blue_eagle/images/pathway_start.gif
+1 4 0 435 0 0
+/images/sampledata/ja_university/page-offline.png
+1 1 0 48115 0 0
+/media/kunena/attachments/42/parcial-1.png
+1 1 0 22408 0 0
+/components/com_kunena/template/blue_eagle/images/icons/attachment.png
+1 1 0 1188 0 0
+/templates/ja_university_t3/images/fugue/globe.png
+1 1 0 849 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-20.png
+1 1 0 26329 0 0
+/templates/ja_university_t3/images/system/k2CalendarLoader.gif
+1 1 0 10026 0 0
+/media/kunena/attachments/42/DSC00079.jpg
+1 2 0 161048 0 0
+/images/sampledata/ja_university/sam-20.jpg
+1 1 0 51569 0 0
+/media/kunena/attachments/42/32.jpg
+1 1 0 110574 0 0
+/media/kunena/attachments/42/4.jpg
+1 1 0 76649 0 0
+/images/sampledata/ja_university/sam-6.jpg
+1 1 0 37277 0 0
+/t3-assets/js/js-12331.js
+0 1 0 93951 0 0
+/templates/ja_university_t3/images/mask-left.png
+1 10 0 10950 0 0
+/administrator/manifests/files/joomla.xml
+0 8 0 5619 0 0
+/images/sampledata/parks/animals/200px_phyllopteryx_taeniolatus1.jpg
+1 1 0 5109 0 0
+/media/kunena/attachments/42/DSC00061.jpg
+1 2 0 61209 0 0
+/media/kunena/emoticons/silly.png
+1 1 0 457 0 0
+/media/kunena/emoticons/pinch.png
+1 1 0 791 0 0
+/t3-assets/js/js-85d52.js
+0 1 0 67676 0 0
+/media/kunena/attachments/42/prac-2a1.png
+1 2 0 360830 0 0
+/modules/mod_vvisit_counter/images/tbl/calendar/vyesterday.gif
+1 10 0 672 0 0
+/components/com_kunena/template/blue_eagle/images/icons/myflag.png
+1 1 0 352 0 0
+/media/kunena/attachments/42/tema-calculo-1-32.png
+1 1 0 96801 0 0
+/images/sampledata/ja_university/pss-3.jpg
+1 1 0 12350 0 0
+/media/kunena/ranks/rankdisabled.gif
+1 1 0 544 0 0
+/media/kunena/attachments/42/16.jpg
+1 2 0 258690 0 0
+/media/kunena/attachments/42/tema-calculo-1-28.png
+1 1 0 73048 0 0
+/media/kunena/attachments/42/tema-calculo-1-30.png
+1 2 0 197296 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-1.png
+1 1 0 61315 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-4.png
+1 2 0 75094 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(2).jpg
+1 2 0 116524 0 0
+/media/kunena/attachments/42/calculo-II-integracion-8.png
+1 2 0 170034 0 0
+/media/kunena/attachments/42/tema-calculo-1-3.png
+1 1 0 64650 0 0
+/images/sampledata/ja_university/video-3.jpg
+1 1 0 83408 0 0
+/t3-assets/css/css-31001.css
+0 7 0 98490 0 0
+/media/kunena/emoticons/sideways.png
+1 1 0 787 0 0
+/images/sampledata/parks/animals/180px_koala_ag1.jpg
+1 1 0 4063 0 0
+/templates/ja_university_t3/images/tag-mask-ltr.png
+1 1 0 1056 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-25.png
+1 1 0 23737 0 0
+/templates/ja_university_t3/images/mask-right.png
+1 10 0 10944 0 0
+/media/kunena/attachments/42/13.jpg
+1 2 0 210818 0 0
+/images/resized/images/sampledata/ja_university/sam-4_130_130.jpg
+1 10 0 37344 0 0
+/media/kunena/attachments/42/Practico5.docx
+0 1 0 79085 0 0
+/media/kunena/attachments/42/tema-calculo-1-31.png
+1 1 0 91516 0 0
+/media/kunena/attachments/42/CALCULO_II_Primer_ParcialSistema.docx
+0 1 0 28121 0 0
+/templates/ja_university_t3/fonts/font-awesome/fonts/fontawesome-webfont.ttf
+0 2 0 224320 0 0
+/media/kunena/attachments/42/calculo-II-integracion-3.png
+1 1 0 92616 0 0
+/images/sampledata/ja_university/sam-14.jpg
+1 1 0 69311 0 0
+/media/kunena/attachments/42/algebra-14-5.png
+1 2 0 211620 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-7.png
+1 1 0 73504 0 0
+/media/kunena/attachments/42/DSC00090.jpg
+1 1 0 76283 0 0
+/media/kunena/attachments/42/CALCULO_II_Primer_Parcial.docx
+0 1 0 19326 0 0
+/media/kunena/emoticons/sad.png
+1 1 0 790 0 0
+/media/kunena/attachments/42/20150126_001254_2015-01-26.jpg
+1 1 0 407418 0 0
+/media/kunena/attachments/42/DSC00081.jpg
+1 1 0 93210 0 0
+/media/kunena/attachments/42/25.jpg
+1 1 0 81452 0 0
+/media/kunena/attachments/42/calculo-10-2-II.png
+1 1 0 70165 0 0
+/components/com_kunena/template/blue_eagle/css/kunena.forum.ie7.css
+0 1 0 4028 0 0
+/media/kunena/attachments/42/calculo-17-2-II.png
+1 1 0 83033 0 0
+/modules/mod_vvisit_counter/images/tbl/calendar/vtoday.gif
+1 10 0 564 0 0
+/components/com_kunena/template/blue_eagle/images/icons/folder.png
+1 1 0 901 0 0
+/media/kunena/attachments/42/tema-calculo-1-13.png
+1 2 0 148016 0 0
+/images/sampledata/parks/landscape/180px_ormiston_pound.jpg
+1 1 0 1004 0 0
+/templates/ja_university_t3/images/icon-calendar.png
+1 1 0 323 0 0
+/media/kunena/attachments/42/DSC00082.jpg
+1 3 0 181128 0 0
+/media/kunena/attachments/42/algebra-10-5.png
+1 3 0 358566 0 0
+/images/sampledata/ja_university/sam-3.jpg
+1 1 0 33204 0 0
+/images/sampledata/ja_university/sam-2.jpg
+1 1 0 46485 0 0
+/media/kunena/emoticons/cool.png
+1 1 0 781 0 0
+/media/kunena/attachments/42/tema-calculo-1-24.png
+1 2 0 167178 0 0
+/robots.txt
+0 99 0 28628 0 0
+/media/kunena/attachments/42/3-2.jpg
+1 1 0 100481 0 0
+/components/com_kunena/template/blue_eagle/images/pathway_finallink.gif
+1 1 0 187 0 0
+/media/kunena/attachments/42/prac-4c.png
+1 2 0 48024 0 0
+/media/kunena/attachments/42/algebra-5-5.png
+1 2 0 152024 0 0
+/t3-assets/js/js-99f38.js
+0 1 0 68714 0 0
+/media/kunena/attachments/42/calculo-II-integracion-0.png
+1 1 0 106396 0 0
+/media/kunena/attachments/42/calculo-2-2-II.png
+1 2 0 111928 0 0
+/media/kunena/attachments/42/caratula.jpg
+1 1 0 127005 0 0
+/media/kunena/attachments/42/calculo-II-integracion-1.png
+1 1 0 115467 0 0
+/media/kunena/attachments/42/calculo-1parcial_2014-12-15.png
+1 1 0 20680 0 0
+/media/kunena/attachments/42/4-2.jpg
+1 1 0 129742 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-4-1.png
+1 3 0 73299 0 0
+/media/kunena/attachments/42/Solucion-examen-Final-cal1-0(5).jpg
+1 4 0 186474 0 0
+/media/kunena/attachments/42/tema-calculo-1-27.png
+1 1 0 113187 0 0
+/images/sampledata/ja_university/sam-18.jpg
+1 1 0 26943 0 0
+/media/kunena/attachments/42/algebra-7-5.png
+1 3 0 102867 0 0
+/media/kunena/attachments/42/prac-5a.png
+1 1 0 61844 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-2-7.png
+1 2 0 121194 0 0
+/media/kunena/attachments/42/calculo-1-1parcial.png
+1 2 0 18833 0 0
+/media/kunena/attachments/42/14.jpg
+1 1 0 114921 0 0
+/media/kunena/attachments/42/DSC00095.jpg
+1 1 0 64816 0 0
+/media/kunena/attachments/42/solucion-1-ex-algebra-2005-1.jpg
+1 1 0 120862 0 0
+/media/system/images/notice-info.png
+1 1 0 1106 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-1-7.png
+1 1 0 107491 0 0
+/images/resized/images/sampledata/ja_university/sam-17_130_130.jpg
+1 10 0 39582 0 0
+/media/kunena/attachments/42/DSC00116.jpg
+1 2 0 207244 0 0
+/media/kunena/attachments/42/tema-calculo-1-17.png
+1 1 0 40465 0 0
+/media/kunena/attachments/42/algebra-13-5.png
+1 4 0 448455 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-4.png
+1 1 0 67093 0 0
+/images/resized/images/sampledata/ja_university/sam-18_130_130.jpg
+1 10 0 31146 0 0
+/media/kunena/attachments/42/tema-calculo-1-19.png
+1 1 0 73814 0 0
+/images/powered_by.png
+1 4 0 12144 0 0
+/media/kunena/emoticons/wassat.png
+1 1 0 794 0 0
+/media/kunena/attachments/42/6.jpg
+1 1 0 117467 0 0
+/media/kunena/attachments/42/tema-calculo-1-2.png
+1 1 0 84943 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-18.png
+1 1 0 115463 0 0
+/templates/ja_university_t3/images/system/K2_Logo_105x40_24.png
+1 1 0 2508 0 0
+/media/kunena/attachments/42/calculo-4-2-II.png
+1 2 0 157668 0 0
+/components/com_kunena/template/blue_eagle/media/iconsets/profile/default/default.png
+1 4 0 51102 0 0
+/t3-assets/js/js-db44d.js
+0 1 0 40645 0 0
+/media/kunena/attachments/42/DSC00092.jpg
+1 1 0 61298 0 0
+/media/kunena/attachments/42/DSC00103.jpg
+1 1 0 124128 0 0
+/images/sampledata/parks/animals/789px_spottedquoll_2005_seanmcclean.jpg
+1 1 0 10683 0 0
+/media/kunena/attachments/42/CAPTULO-algebra-3-6.png
+1 2 0 134256 0 0
+/media/kunena/attachments/42/DSC00208.jpg
+1 2 0 114270 0 0
+/media/kunena/attachments/42/CALCULO_I_Parcial1-2001.docx
+0 1 0 21417 0 0
+/media/kunena/attachments/42/copia.jpg
+1 1 0 334564 0 0
+/media/kunena/attachments/42/34.jpg
+1 2 0 262938 0 0
+/media/kunena/attachments/42/DSC00085.jpg
+1 2 0 198298 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.36.148.102
+0 3 3 211514 2 1546663488
+/
+170.238.118.107
+0 2 1 33779 1 1546354653
+/
+106.38.241.190
+0 1 0 251 1 1546389468
+/
+54.36.149.3
+0 1 1 47113 1 1546384312
+/
+123.24.150.54
+0 1 1 6904 1 1546541012
+/administrator/
+54.36.148.97
+0 1 1 60597 0 0
+-
+54.36.148.252
+0 4 4 1275797 2 1546853831
+/
+93.158.161.200
+0 1 1 842 0 0
+-
+54.36.148.137
+0 1 1 51331 1 1546387031
+/
+173.252.95.16
+0 8 0 0 0 0
+-
+151.80.39.191
+0 2 0 608 2 1546612356
+/
+101.53.139.78
+0 7 0 4849 1 1546497399
+/
+54.36.149.63
+0 1 1 62158 0 0
+-
+54.36.148.221
+0 1 1 90663 0 0
+-
+190.152.19.190
+0 2 1 11477 1 1546918505
+/administrator/
+45.235.87.11
+0 2 1 11477 1 1546702784
+/administrator/
+188.214.232.2
+0 3 2 14316 1 1546639041
+/administrator/
+40.77.167.60
+0 2 2 189736 0 0
+-
+54.36.149.37
+0 2 2 109422 2 1546678515
+/
+188.240.208.29
+0 10 8 284480 2 1546764992
+/
+176.8.91.135
+0 6 0 1578 2 1546762630
+/
+40.77.167.146
+0 1 1 41891 1 1546712624
+/
+54.36.148.121
+0 2 2 133554 1 1546780958
+/
+54.36.148.156
+0 3 3 181832 3 1546721589
+/
+14.186.150.14
+0 1 1 6904 1 1546542187
+/administrator/
+106.120.173.67
+0 2 0 512 1 1546562246
+/
+113.177.128.239
+0 1 0 4573 1 1546539843
+/administrator/
+84.19.38.158
+0 2 1 11477 1 1546913270
+/administrator/
+157.55.39.8
+0 1 1 842 0 0
+-
+54.36.148.174
+0 4 4 218094 4 1546822637
+/
+54.36.149.51
+0 1 1 49706 0 0
+-
+39.98.52.133
+0 1 0 863 1 1546563183
+-
+54.36.148.209
+0 1 1 7248 1 1546818071
+/
+54.36.149.25
+0 3 3 214951 1 1546308463
+/
+178.252.166.122
+0 2 1 11477 1 1546708327
+/administrator/
+54.36.149.69
+0 2 2 111757 1 1546319972
+/
+42.191.204.43
+0 1 1 933 1 1546554624
+/
+157.55.39.165
+0 2 1 3689 1 1546777978
+/
+54.36.148.192
+0 1 0 317 1 1546416674
+/
+54.36.148.39
+0 1 1 67554 1 1546372912
+/
+123.21.18.92
+0 1 1 6904 1 1546514372
+/administrator/
+123.126.113.162
+0 2 0 512 1 1546907125
+/
+177.223.58.68
+0 2 1 11477 1 1546610297
+/administrator/
+93.158.161.13
+0 5 5 150436 4 1546870728
+/
+146.88.205.240
+0 2 1 11477 1 1546737428
+/administrator/
+54.36.148.105
+0 1 1 149485 0 0
+-
+185.119.81.11
+0 6 3 34431 3 1546941278
+/administrator/
+40.77.169.27
+0 1 1 61859 1 1547101296
+/
+185.86.164.104
+0 8 4 45908 4 1546814581
+/administrator/
+54.36.148.21
+0 1 1 71649 1 1546310984
+/
+151.80.39.177
+0 1 0 357 1 1546627483
+/
+60.51.20.134
+0 6 3 131798 1 1546412270
+/
+123.20.45.244
+0 1 1 6904 1 1546547055
+/administrator/
+54.36.148.206
+0 1 1 112314 0 0
+-
+54.36.149.30
+0 1 1 104363 0 0
+-
+54.36.148.165
+0 2 2 124202 2 1546417629
+/
+5.196.87.19
+0 2 0 630 2 1546503158
+/
+116.104.25.179
+0 1 0 4573 1 1546542191
+/administrator/
+185.85.190.132
+0 6 3 34431 3 1546469978
+/administrator/
+54.36.149.58
+0 6 6 242341 5 1546393760
+/
+54.36.148.179
+0 1 1 84813 0 0
+-
+54.36.148.116
+0 1 1 758000 0 0
+-
+66.249.64.112
+0 1 1 842 0 0
+-
+123.126.113.116
+0 1 0 251 1 1546821019
+/
+5.255.250.118
+0 2 1 1090 1 1546862570
+/
+151.80.39.28
+0 1 0 319 1 1546331492
+/
+54.36.149.10
+0 3 3 187956 2 1546346644
+/
+110.159.144.231
+0 2 1 33714 1 1546554617
+/
+54.36.149.2
+0 2 2 99969 2 1546860729
+/
+113.190.234.34
+0 1 0 4573 1 1546529101
+/administrator/
+5.196.87.9
+0 1 0 315 1 1546592610
+/
+178.255.215.75
+0 32 30 1333559 1 1546801211
+-
+46.229.168.142
+0 2 0 522 0 0
+-
+54.36.149.16
+0 2 2 95492 2 1546772388
+/
+40.77.194.87
+0 1 1 325345 0 0
+-
+54.36.148.66
+0 3 3 190626 3 1546880139
+/
+117.0.86.133
+0 1 0 4573 1 1546523873
+/administrator/
+77.88.5.45
+0 1 1 842 0 0
+-
+54.36.148.117
+0 1 1 91379 0 0
+-
+54.36.149.7
+0 2 2 41906 1 1546320514
+/
+54.36.149.88
+0 2 2 9873 2 1546792409
+/
+195.154.123.93
+0 8 3 265139 0 0
+-
+5.196.87.71
+0 2 0 655 2 1546357850
+/
+113.177.27.244
+0 1 0 4573 1 1546508744
+/administrator/
+176.108.188.5
+0 2 1 33779 1 1546817626
+/
+54.36.149.18
+0 2 2 194486 1 1546410621
+/
+123.21.185.163
+0 1 1 6904 1 1546520219
+/administrator/
+185.86.164.110
+0 4 2 22954 2 1546520993
+/administrator/
+14.186.237.205
+0 1 1 6904 1 1546494598
+/administrator/
+14.169.229.100
+0 1 1 6904 1 1546549537
+/administrator/
+185.86.164.108
+0 6 3 34431 3 1546906481
+/administrator/
+54.36.148.101
+0 2 2 108358 1 1546377192
+/
+5.160.111.124
+0 8 5 154500 1 1546810103
+/
+46.118.156.40
+0 9 0 2367 3 1546957045
+/
+100.43.85.109
+0 1 1 38784 1 1546831013
+/
+54.36.148.115
+0 1 1 41911 1 1546855723
+/
+151.80.39.168
+0 1 0 350 1 1546620145
+/
+182.253.102.74
+0 2 1 11477 1 1546842441
+/administrator/
+46.229.168.129
+0 1 0 323 1 1546583350
+/
+54.36.149.40
+0 3 3 60016 3 1546745919
+/
+54.36.148.143
+0 3 3 133545 3 1546784241
+/
+151.80.39.8
+0 2 0 644 2 1546562897
+/
+54.36.148.118
+0 1 1 50984 1 1546888335
+/
+54.36.148.213
+0 2 2 228645 0 0
+-
+123.20.115.38
+0 1 1 6904 1 1546553481
+/administrator/
+95.163.255.39
+0 2 1 48474 2 1546535648
+/
+116.202.21.55
+0 1 0 251 1 1546421116
+/
+85.143.213.150
+0 3113 3050 114479388 1 1546906277
+/
+54.36.149.53
+0 2 2 78544 1 1546332458
+/
+54.36.148.144
+0 1 1 64816 1 1546378946
+/
+123.20.243.54
+0 1 1 6904 1 1546501301
+/administrator/
+5.45.64.76
+0 2 1 57753 1 1546778359
+/
+27.73.49.137
+0 1 1 6904 1 1546531786
+/administrator/
+5.196.87.6
+0 1 0 308 1 1546469933
+/
+54.36.148.219
+0 1 1 66693 1 1546905270
+/
+146.158.1.63
+0 3 2 14316 1 1546723887
+/administrator/
+78.140.7.239
+0 2 1 11477 1 1546536998
+/administrator/
+54.36.148.41
+0 1 1 43658 1 1546746391
+/
+54.36.148.85
+0 1 1 6841 1 1546857489
+/
+54.36.149.77
+0 5 4 198293 5 1546865412
+/
+213.149.152.151
+0 2 1 11477 1 1546880395
+/administrator/
+54.36.148.205
+0 2 2 118413 1 1546762326
+/
+217.23.3.96
+0 1 0 248 1 1546753295
+/
+54.36.148.235
+0 2 2 113917 2 1546879612
+/
+79.148.225.158
+0 15 9 312732 7 1546925424
+/
+218.30.103.128
+0 2 0 512 1 1546474731
+/
+185.85.239.195
+0 2 1 11477 1 1546801761
+/administrator/
+51.15.240.100
+0 2 1 33779 1 1546490344
+/
+62.149.29.37
+0 2 1 33779 1 1546519374
+/
+151.80.39.120
+0 1 0 324 1 1546358534
+/
+5.196.87.13
+0 2 0 664 2 1546377809
+/
+151.80.39.158
+0 1 0 325 1 1546613151
+/
+52.53.201.78
+0 8 4 231108 4 1546961551
+/
+54.36.149.79
+0 1 1 55964 0 0
+-
+188.172.220.71
+0 16 10 323512 1 1546500125
+/
+113.173.170.111
+0 2 1 11477 2 1546500094
+/administrator/
+14.248.137.63
+0 1 0 4573 1 1546530405
+/administrator/
+54.36.148.57
+0 3 3 91650 3 1546867188
+/
+5.196.87.26
+0 1 0 316 1 1546390240
+/
+171.238.11.179
+0 1 0 4573 1 1546537239
+/administrator/
+185.206.224.243
+0 2 1 33779 1 1546869836
+/
+123.20.186.94
+0 1 0 4573 1 1546512142
+/administrator/
+54.36.148.17
+0 1 1 61629 1 1546346071
+/
+51.75.89.132
+0 6 2 4382 2 1546428371
+/
+54.36.148.175
+0 2 2 60025 2 1546864039
+/
+151.80.39.166
+0 2 0 644 2 1546436701
+/
+5.196.87.70
+0 1 0 342 1 1546612703
+/
+123.21.100.183
+0 1 1 6904 1 1546480842
+/administrator/
+113.178.36.88
+0 1 0 4573 1 1546492466
+/administrator/
+151.80.39.108
+0 1 0 342 1 1546627592
+/
+54.36.148.157
+0 1 1 48344 1 1546326621
+/
+123.20.184.122
+0 1 1 6904 1 1546539819
+/administrator/
+54.36.148.94
+0 2 2 136314 2 1546883877
+/
+54.36.148.18
+0 2 2 71163 2 1546348902
+/
+5.196.87.23
+0 1 0 338 1 1546565655
+/
+54.36.148.123
+0 1 1 41672 1 1546838261
+/
+117.4.185.4
+0 1 1 6904 1 1546529092
+/administrator/
+46.229.168.136
+0 3 0 840 1 1546426812
+/
+185.205.249.153
+0 8 5 40109 3 1546488441
+/administrator/
+78.46.103.42
+0 3 1 58001 1 1546712749
+/
+54.36.148.216
+0 2 2 191848 1 1546383081
+/
+185.86.13.213
+0 2 1 11477 1 1546451729
+/administrator/
+54.36.148.48
+0 5 2 89994 0 0
+-
+14.186.212.5
+0 1 1 6904 1 1546522579
+/administrator/
+54.36.149.42
+0 2 2 129332 2 1546413462
+/
+66.249.66.134
+0 4 0 863 0 0
+-
+14.169.224.3
+0 1 1 6904 1 1546514350
+/administrator/
+54.36.149.61
+0 2 2 88808 1 1546330253
+/
+54.36.148.158
+0 2 2 91905 2 1546692375
+/
+54.36.148.160
+0 2 2 97580 2 1546385106
+/
+54.236.1.14
+0 1 1 49649 1 1546428420
+/
+182.160.117.130
+0 2 1 11477 1 1546330157
+/administrator/
+93.80.32.83
+0 43 39 1721622 1 1546961114
+/
+93.158.161.87
+0 1 1 57504 1 1546613140
+/
+54.36.149.81
+0 2 2 82236 1 1546668869
+/
+54.36.148.141
+0 1 1 47347 1 1546876213
+/
+196.13.208.23
+0 2 1 11477 1 1546424822
+/administrator/
+54.36.148.25
+0 1 1 41481 0 0
+-
+69.12.72.169
+0 2 1 1383 1 1546607207
+/
+5.196.87.16
+0 1 0 302 1 1546336611
+/
+151.80.39.152
+0 2 0 675 2 1546527779
+/
+54.36.148.126
+0 1 1 110114 0 0
+-
+159.65.1.26
+0 2 1 33779 1 1546454797
+/
+54.36.148.10
+0 1 1 47129 1 1546372946
+/
+46.119.120.118
+0 15 0 3945 3 1546610948
+/
+54.36.148.194
+0 1 1 43663 1 1546417750
+/
+54.36.148.46
+0 2 1 58811 1 1546319339
+/
+54.36.148.63
+0 1 1 66267 1 1546319427
+/
+178.154.246.131
+0 2 1 683 1 1546754291
+/
+54.36.149.4
+0 1 1 49706 0 0
+-
+151.80.39.110
+0 2 0 666 2 1546533520
+/
+138.36.77.140
+0 47 2 115258 1 1546870803
+/
+54.36.148.52
+0 5 4 113884 2 1546774997
+/
+69.58.178.56
+0 5 3 204290 1 1546361544
+/
+185.86.167.4
+0 4 2 22954 2 1546864022
+/administrator/
+123.20.247.222
+0 1 1 6904 1 1546492441
+/administrator/
+54.36.148.196
+0 1 1 48281 1 1546348242
+/
+104.196.155.9
+0 4 2 115506 1 1546646382
+/
+54.36.149.87
+0 2 2 73445 2 1546863590
+/
+54.36.148.168
+0 4 4 159031 2 1546820579
+/
+115.135.89.229
+0 6 3 131800 1 1546894961
+/
+94.180.87.243
+0 1 0 248 1 1546737630
+/
+5.196.87.12
+0 1 0 336 1 1546437642
+/
+54.36.149.39
+0 1 1 48535 1 1546577230
+/
+38.130.179.189
+0 2 1 57757 1 1546928165
+/
+184.154.76.23
+0 39 27 1379728 2 1546784357
+/
+177.22.184.246
+0 7 3 112209 1 1546953419
+/
+185.86.164.100
+0 8 4 45908 4 1546685564
+/administrator/
+69.171.251.8
+0 7 7 249138 0 0
+-
+157.55.39.237
+0 1 1 49649 1 1546855493
+/
+13.57.233.99
+0 6 3 173352 3 1546863577
+/
+60.191.38.77
+0 8 3 173760 3 1547120586
+/
+77.88.47.2
+0 1 1 668 1 1546830697
+/
+123.16.158.37
+0 1 1 6904 1 1546543369
+/administrator/
+123.20.214.249
+0 1 1 6904 1 1546550786
+/administrator/
+54.36.149.71
+0 1 1 66795 1 1546889337
+/
+212.32.255.198
+0 2 1 57752 1 1546660014
+/
+157.55.39.19
+0 1 0 0 0 0
+-
+185.26.65.110
+0 2 1 11477 1 1546375970
+/administrator/
+54.36.148.212
+0 2 2 40780 2 1546845244
+/
+46.229.168.130
+0 1 0 312 1 1546607792
+/
+81.162.98.175
+0 2 1 33779 1 1546719387
+/
+54.36.148.226
+0 1 1 3380 1 1546345647
+/
+37.9.87.161
+0 2 1 920 2 1546870665
+/
+118.70.190.68
+0 2 1 7412 1 1546535895
+/administrator/
+35.236.28.46
+0 64 27 317317 3 1546759222
+-
+213.6.227.38
+0 2 1 11477 1 1546865296
+/administrator/
+134.249.215.31
+0 4 3 134766 1 1546732531
+/
+195.146.37.19
+0 4 1 1455 2 1546715832
+/
+54.36.148.36
+0 1 1 43909 0 0
+-
+54.36.148.220
+0 2 1 65204 2 1546715531
+/
+201.184.130.194
+0 2 1 11477 1 1546826678
+/administrator/
+95.163.255.26
+0 1 1 90851 1 1546585908
+/
+54.36.148.83
+0 1 1 56437 1 1546420438
+/
+113.172.211.214
+0 1 0 4573 1 1546483461
+/administrator/
+40.77.253.40
+0 1 1 170804 0 0
+-
+14.185.36.128
+0 1 0 4573 1 1546491711
+/administrator/
+167.99.32.123
+0 1 0 251 1 1546690221
+/
+88.21.196.183
+0 4 0 496 1 1546514335
+/
+178.120.206.134
+0 35 15 582785 5 1546704817
+/
+185.86.164.101
+0 4 2 22954 2 1546914751
+/administrator/
+178.121.73.183
+0 6 3 135239 1 1546553318
+/
+54.36.148.12
+0 1 1 48651 1 1546354031
+/
+46.229.168.140
+0 1 0 302 1 1546938058
+/
+5.196.87.46
+0 1 0 321 1 1546577599
+/
+54.36.148.185
+0 1 1 90087 0 0
+-
+151.80.39.184
+0 1 0 287 1 1546546516
+/
+171.229.233.10
+0 2 1 11477 2 1546519024
+/administrator/
+54.36.149.29
+0 1 1 65743 1 1546361734
+/
+188.213.31.170
+0 2 1 11477 1 1546673110
+/administrator/
+14.186.60.84
+0 1 0 4573 1 1546496215
+/administrator/
+175.137.16.218
+0 1 1 33466 1 1546387461
+/
+173.252.95.26
+0 7 0 0 0 0
+-
+95.163.255.37
+0 1 0 0 0 0
+-
+113.162.189.59
+0 1 0 4573 1 1546490907
+/administrator/
+54.36.149.80
+0 4 4 185586 4 1546792285
+/
+54.36.149.107
+0 3 3 212030 1 1546390700
+/
+54.36.149.49
+0 3 3 152734 3 1546388705
+/
+54.36.148.201
+0 3 3 172797 3 1546410001
+/
+54.36.148.210
+0 2 2 70597 2 1546342917
+/
+93.158.161.130
+0 1 0 248 1 1546662221
+/
+54.36.148.58
+0 3 3 111405 3 1546569829
+/
+5.196.87.41
+0 1 0 317 1 1546432488
+/
+54.36.148.78
+0 2 2 157818 2 1546721581
+/
+54.36.148.182
+0 1 1 31530 0 0
+-
+54.36.149.31
+0 1 1 37830 1 1546653917
+/
+66.249.66.130
+0 8 0 4315 0 0
+-
+54.36.148.255
+0 1 1 69259 1 1546386420
+/
+54.36.149.85
+0 1 1 52353 1 1546744312
+/
+54.36.148.250
+0 1 1 65515 1 1546876824
+/
+207.46.13.146
+0 1 1 48322 1 1546744684
+/
+185.86.164.103
+0 4 2 22954 2 1546876046
+/administrator/
+89.189.159.214
+0 3 2 14316 1 1546802719
+/administrator/
+5.255.250.106
+0 1 0 248 1 1546501176
+/
+94.242.228.173
+0 3 1 58001 2 1546715316
+/
+54.36.148.77
+0 2 2 116247 2 1546381283
+/
+113.172.223.231
+0 1 0 4573 1 1546497957
+/administrator/
+151.80.39.118
+0 1 0 349 1 1546573154
+/
+109.73.13.162
+0 2 1 11477 1 1546925423
+/administrator/
+176.105.171.226
+0 18 6 200213 2 1546719557
+/
+123.20.94.193
+0 1 1 6904 1 1546512140
+/administrator/
+54.36.149.26
+0 3 3 263263 2 1546719382
+/
+171.229.172.93
+0 1 1 6904 1 1546489323
+/administrator/
+185.105.101.136
+0 2 1 11477 1 1546324495
+/administrator/
+95.163.255.28
+0 1 0 318 1 1546713138
+/
+54.36.148.150
+0 2 2 131401 2 1546719221
+/
+54.36.149.76
+0 2 2 127806 2 1546348798
+/
+151.80.39.36
+0 2 0 679 2 1546585195
+/
+185.230.127.240
+0 2 1 33779 1 1546387140
+/
+186.124.58.168
+0 42 42 2910990 3 1546880451
+/
+113.190.128.211
+0 1 1 6904 1 1546529070
+/administrator/
+157.55.39.44
+0 1 0 0 0 0
+-
+192.42.116.20
+0 2 1 33779 1 1546440345
+/
+217.66.159.234
+0 2 1 1189 1 1546424022
+/
+54.36.149.64
+0 1 1 7064 1 1546393593
+/
+54.36.148.32
+0 1 1 56421 1 1546768876
+/
+123.24.24.101
+0 1 1 6904 1 1546509902
+/administrator/
+54.36.149.104
+0 2 2 108222 1 1546563389
+/
+54.36.148.24
+0 1 1 101073 0 0
+-
+185.100.85.190
+0 4 2 77629 1 1546326152
+/
+123.49.51.90
+0 2 0 1726 1 1546863704
+-
+54.36.149.97
+0 2 2 112517 2 1546764858
+/
+54.36.148.223
+0 2 2 93987 2 1546416282
+/
+171.241.35.115
+0 1 1 6904 1 1546508742
+/administrator/
+109.70.100.19
+0 2 1 33779 1 1546892273
+/
+207.46.13.214
+0 1 1 170804 0 0
+-
+14.169.201.87
+0 1 1 6904 1 1546516629
+/administrator/
+54.36.148.131
+0 2 2 134185 2 1546823647
+/
+54.36.148.61
+0 1 1 37863 1 1546396740
+/
+105.27.178.26
+0 2 1 11477 1 1546601620
+/administrator/
+54.36.149.90
+0 1 1 79799 1 1546379742
+/
+117.7.92.82
+0 1 1 6904 1 1546544554
+/administrator/
+115.79.7.22
+0 1 1 6904 1 1546517845
+/administrator/
+113.177.116.36
+0 1 1 152 1 1546500112
+/administrator/
+194.135.216.178
+0 2 1 11477 1 1546524397
+/administrator/
+66.249.64.114
+0 2 1 171667 0 0
+-
+124.13.36.250
+0 7 3 113114 1 1546508776
+/
+190.146.60.147
+0 4 2 14547 1 1546962524
+/administrator/
+123.126.113.130
+0 1 0 261 0 0
+-
+157.55.39.30
+0 3 0 0 0 0
+-
+151.80.39.121
+0 1 0 326 1 1546562924
+/
+54.36.148.224
+0 2 2 129468 2 1546724077
+/
+113.161.35.115
+0 2 1 7412 1 1546552175
+/administrator/
+113.173.174.224
+0 1 0 4573 1 1546493903
+/administrator/
+157.55.39.7
+0 2 0 0 0 0
+-
+203.210.130.216
+0 1 1 6904 1 1546495407
+/administrator/
+209.99.130.168
+0 3 2 76955 1 1546491616
+/
+54.36.148.34
+0 1 1 3403 1 1546359784
+/
+40.77.195.251
+0 1 1 112160 0 0
+-
+31.204.181.238
+0 2 1 33779 1 1546818989
+/
+66.249.66.66
+0 4 3 363322 0 0
+-
+54.36.148.191
+0 2 1 64936 2 1546786049
+/
+83.149.45.231
+0 1 0 263 1 1546305742
+/
+192.42.116.23
+0 2 1 33779 1 1546536881
+/
+54.36.148.71
+0 4 4 254716 3 1546649929
+/
+91.236.74.16
+0 3 2 115355 1 1546926046
+/
+14.169.195.76
+0 1 0 4573 1 1546489328
+/administrator/
+151.80.39.146
+0 1 0 337 1 1546429226
+/
+54.36.148.229
+0 2 2 209447 1 1546857251
+/
+188.31.180.122
+0 9 5 193972 1 1546611730
+/
+54.36.148.249
+0 1 1 3375 1 1546392231
+/
+118.174.220.115
+0 3 2 14316 1 1546630165
+/administrator/
+54.36.148.134
+0 2 2 90424 2 1546419171
+/
+113.173.37.6
+0 1 1 6904 1 1546526424
+/administrator/
+151.80.39.182
+0 1 0 317 1 1546546289
+/
+54.36.148.73
+0 2 2 138030 1 1546415070
+/
+5.255.250.108
+0 2 2 1992 0 0
+-
+54.36.148.140
+0 1 1 64396 1 1546634939
+/
+175.138.57.125
+0 1 0 0 1 1546572330
+/
+95.163.255.35
+0 1 1 41949 1 1546525377
+/
+113.162.187.81
+0 1 0 4573 1 1546494601
+/administrator/
+54.36.148.237
+0 1 1 41810 1 1546739687
+/
+5.196.87.39
+0 1 0 338 1 1546495483
+/
+49.249.251.86
+0 2 1 11477 1 1546542065
+/administrator/
+40.77.167.178
+0 2 2 116770 2 1546816406
+/
+185.86.164.102
+0 6 3 34431 3 1546740008
+/administrator/
+54.36.148.149
+0 2 2 121322 2 1546647574
+/
+179.28.216.6
+0 1 1 62158 0 0
+-
+54.36.148.186
+0 3 3 178902 1 1546380349
+/
+175.143.199.69
+0 2 1 33714 1 1546729194
+/
+66.249.66.95
+0 11 8 1114764 2 1546845943
+/
+54.36.149.9
+0 2 2 49618 1 1546383423
+/
+173.252.95.21
+0 16 1 57989 1 1546752694
+/
+207.46.13.197
+0 2 2 94250 1 1546822091
+/
+171.242.208.48
+0 1 1 6904 1 1546483456
+/administrator/
+151.80.39.32
+0 1 0 319 1 1546370964
+/
+54.36.149.27
+0 1 1 67302 1 1546387748
+/
+54.36.148.142
+0 2 1 65039 2 1546344936
+/
+14.177.75.131
+0 1 1 6904 1 1546505211
+/administrator/
+54.36.148.172
+0 1 1 3374 1 1546752307
+/
+185.85.191.201
+0 14 7 80339 7 1546950448
+/administrator/
+37.214.98.109
+0 2 1 33779 1 1546422833
+/
+54.36.148.89
+0 2 2 93965 1 1546640457
+/
+89.36.213.56
+0 6 3 77678 1 1546683840
+/
+185.220.102.7
+0 2 1 33779 1 1546450251
+/
+54.36.148.84
+0 1 1 65515 1 1546349320
+/
+113.172.213.13
+0 1 0 4573 1 1546511027
+/administrator/
+54.36.149.89
+0 2 2 161358 1 1546725892
+/
+54.36.149.70
+0 2 2 95741 1 1546368503
+/
+178.137.89.90
+0 3 2 115353 1 1546686580
+/
+199.195.250.77
+0 4 2 115614 1 1546523434
+/
+31.132.177.229
+0 1 0 263 1 1546400168
+/
+66.249.66.133
+0 19 10 627190 5 1546840892
+/
+5.196.87.25
+0 1 0 324 1 1546418034
+/
+54.36.148.203
+0 1 1 80524 0 0
+-
+54.36.148.163
+0 1 1 89376 1 1546822117
+/
+92.187.133.226
+0 1 1 24433 0 0
+-
+178.159.37.113
+0 2 1 33779 1 1546765809
+/
+54.36.148.56
+0 1 1 67318 1 1546351662
+/
+91.187.113.205
+0 2 1 11477 1 1546503938
+/administrator/
+54.36.148.207
+0 1 1 66548 1 1546716547
+/
+54.36.148.184
+0 2 2 122593 1 1546331236
+/
+178.137.161.19
+0 3 0 789 1 1546331426
+/
+151.80.39.112
+0 2 0 656 2 1546363051
+/
+151.80.39.154
+0 1 0 339 1 1546452146
+/
+113.172.212.163
+0 1 1 6904 1 1546503793
+/administrator/
+66.249.64.109
+0 1 0 863 0 0
+-
+54.36.149.73
+0 1 1 180415 0 0
+-
+54.36.148.190
+0 1 1 65678 1 1546326770
+/
+185.86.164.98
+0 2 1 11477 1 1546416603
+/administrator/
+89.39.107.196
+0 1 0 248 1 1546791320
+/
+34.217.1.12
+0 2 1 57776 1 1546599780
+/
+54.36.148.11
+0 2 2 104681 2 1546692382
+/
+69.171.251.13
+0 8 8 487460 0 0
+-
+54.36.148.110
+0 2 2 73497 2 1546741831
+/
+188.127.231.219
+0 2 0 1216 1 1546496353
+/
+157.55.39.46
+0 1 0 0 0 0
+-
+123.21.111.222
+0 1 1 152 1 1546520237
+/administrator/
+14.173.229.241
+0 1 0 4573 1 1546550824
+/administrator/
+5.76.53.243
+0 2 1 33779 1 1546881172
+/
+14.237.204.19
+0 1 1 6904 1 1546534544
+/administrator/
+187.179.129.239
+0 1 1 49649 1 1546428420
+/
+37.214.195.67
+0 1 0 280 1 1546843228
+/
+54.36.148.231
+0 1 1 42237 1 1546853893
+/
+54.36.148.54
+0 2 0 0 0 0
+-
+207.46.13.0
+0 3 1 57751 1 1546492329
+/
+178.137.167.226
+0 12 0 3156 4 1546556929
+/
+110.36.218.62
+0 41 33 1176271 8 1546605427
+/
+54.37.76.113
+0 7 1 5405 1 1546794601
+-
+54.36.148.92
+0 2 2 111531 1 1546314466
+/
+106.120.173.76
+0 2 0 512 1 1546647589
+/
+54.36.148.243
+0 6 6 219377 5 1546396518
+/
+54.36.149.24
+0 2 1 64937 2 1546624116
+/
+54.36.148.199
+0 1 1 6592 1 1546640729
+/
+54.36.148.15
+0 3 3 149811 1 1546376918
+/
+141.8.143.134
+0 4 1 64261 2 1546862500
+/
+5.196.87.35
+0 2 0 640 2 1546530005
+/
+54.36.148.53
+0 6 6 46414 1 1546758623
+/
+123.24.72.79
+0 1 1 6904 1 1546493901
+/administrator/
+178.171.3.37
+0 2 1 57752 1 1546460879
+/
+54.36.148.113
+0 2 2 167020 0 0
+-
+54.36.148.91
+0 2 1 7260 2 1546776910
+/
+113.173.173.24
+0 1 1 6904 1 1546490905
+/administrator/
+54.36.148.188
+0 1 1 64564 1 1546848914
+/
+151.80.39.31
+0 1 0 325 1 1546309488
+/
+5.196.87.69
+0 1 0 333 1 1546557401
+/
+54.36.148.127
+0 1 1 49747 0 0
+-
+109.62.162.178
+0 6 5 47147 1 1546831121
+/
+54.36.148.247
+0 1 1 89913 0 0
+-
+138.97.146.103
+0 3 2 14316 1 1546434607
+/administrator/
+14.177.115.40
+0 1 0 4573 1 1546547058
+/administrator/
+54.36.148.215
+0 1 1 61764 1 1546623241
+/
+83.53.14.208
+0 4 0 496 1 1546741772
+/
+222.252.52.143
+0 1 0 4573 1 1546503819
+/administrator/
+123.20.157.41
+0 1 0 4573 1 1546501309
+/administrator/
+54.36.148.72
+0 3 3 167590 2 1546377943
+/
+66.249.64.118
+0 1 1 1446 0 0
+-
+54.36.148.79
+0 3 3 126229 2 1546793244
+/
+54.36.148.208
+0 4 4 248159 3 1546409810
+/
+54.36.148.42
+0 3 3 129205 3 1546771015
+/
+115.134.0.21
+0 1 1 33466 1 1546554608
+/
+196.196.241.69
+0 15 3 111769 1 1546958141
+-
+54.36.148.236
+0 2 2 113664 2 1546415979
+/
+54.36.148.49
+0 1 1 56410 1 1546317913
+/
+54.36.148.251
+0 1 1 91379 0 0
+-
+92.252.240.1
+0 3 2 14316 1 1546773635
+/administrator/
+14.169.244.6
+0 1 0 4573 1 1546490144
+/administrator/
+60.53.31.51
+0 7 3 113114 1 1546654218
+/
+54.36.148.151
+0 1 1 69415 1 1546413122
+/
+46.119.125.153
+0 18 0 4734 5 1546741185
+/
+54.36.149.46
+0 1 1 66685 1 1546305403
+/
+54.36.149.13
+0 2 2 72890 2 1546339592
+/
+69.165.13.161
+0 3 2 76955 1 1546889045
+/
+14.169.191.124
+0 1 1 6904 1 1546537236
+/administrator/
+192.223.119.163
+0 26 14 601766 1 1546904248
+/
+54.36.148.95
+0 1 1 51048 1 1546314435
+/
+91.103.196.170
+0 5 3 25793 2 1546572645
+/administrator/
+54.36.148.119
+0 2 2 41229 2 1546637939
+/
+117.4.189.212
+0 1 0 4573 1 1546506431
+/administrator/
+113.161.95.225
+0 1 0 4573 1 1546484193
+/administrator/
+171.224.6.197
+0 1 1 6904 1 1546498887
+/administrator/
+54.36.148.100
+0 3 2 149497 2 1546669610
+/
+185.85.239.110
+0 4 2 22954 2 1546931206
+/administrator/
+54.36.149.78
+0 3 3 206070 1 1546332372
+/
+123.126.113.164
+0 2 0 512 1 1546560723
+/
+54.36.149.15
+0 2 2 139292 1 1546340410
+/
+134.249.55.222
+0 6 0 1578 1 1546768182
+/
+89.248.174.141
+0 1 0 863 0 0
+-
+157.55.39.55
+0 2 2 122423 2 1546411664
+/
+157.55.39.164
+0 5 5 280176 1 1546870850
+/
+47.92.101.198
+0 3 0 2589 2 1546961129
+-
+54.36.148.28
+0 1 1 64905 1 1546388308
+/
+54.36.149.68
+0 1 1 67120 1 1546331249
+/
+18.222.191.199
+0 2 1 1219 1 1546455794
+/
+54.36.148.80
+0 4 4 217485 4 1546864230
+/
+103.43.37.26
+0 2 1 33779 1 1546410487
+/
+113.172.26.143
+0 1 0 4573 1 1546543372
+/administrator/
+45.120.51.83
+0 3 2 76955 1 1546517114
+/
+185.86.164.107
+0 12 6 68862 6 1546888274
+/administrator/
+54.36.149.60
+0 2 2 1724 1 1546307932
+/
+66.249.66.135
+0 13 3 753820 1 1546750728
+/
+123.16.247.80
+0 1 1 6904 1 1546513234
+/administrator/
+54.36.149.57
+0 2 2 51375 2 1546716060
+/
+54.36.149.91
+0 2 2 157692 1 1546322466
+/
+157.55.39.15
+0 1 0 0 0 0
+-
+54.36.148.125
+0 1 1 3382 1 1546849039
+/
+137.226.113.28
+0 6 3 173357 3 1546959866
+/
+54.36.148.138
+0 2 2 68284 1 1546613111
+/
+14.170.159.69
+0 1 1 6904 1 1546507578
+/administrator/
+46.229.168.141
+0 1 0 261 0 0
+-
+190.122.130.19
+0 6 4 28632 2 1546856987
+/administrator/
+171.229.172.76
+0 1 0 4573 1 1546525159
+/administrator/
+173.252.95.15
+0 7 0 0 0 0
+-
+185.86.164.109
+0 4 2 22954 2 1546923862
+/administrator/
+100.43.91.200
+0 1 0 248 1 1546726958
+/
+157.55.39.26
+0 1 0 0 0 0
+-
+157.55.39.22
+0 1 0 0 0 0
+-
+54.36.148.68
+0 2 2 93966 1 1546331413
+/
+54.36.148.114
+0 1 1 3373 1 1546626219
+/
+189.216.99.105
+0 1 1 94890 0 0
+-
+40.77.167.18
+0 1 1 54257 1 1546371679
+/
+157.55.39.25
+0 1 0 0 0 0
+-
+115.79.37.149
+0 3 1 16050 1 1546470871
+/administrator/
+5.196.87.53
+0 2 0 617 2 1546487674
+/
+54.36.149.96
+0 1 1 60603 0 0
+-
+171.229.105.202
+0 1 1 6904 1 1546519021
+/administrator/
+185.86.164.99
+0 4 2 22954 2 1546857972
+/administrator/
+157.55.39.51
+0 1 1 188290 0 0
+-
+93.158.166.151
+0 1 1 57503 1 1546502548
+/
+123.21.167.59
+0 1 0 4573 1 1546538477
+/administrator/
+124.41.240.137
+0 3 2 14316 1 1546419913
+/administrator/
+54.36.148.197
+0 3 3 162367 2 1546651466
+/
+193.233.158.135
+0 1 1 6904 1 1546714724
+/administrator/
+54.36.148.65
+0 2 2 160169 0 0
+-
+54.36.149.75
+0 2 2 94783 2 1546356964
+/
+47.52.231.140
+0 2 1 11477 1 1546547691
+/administrator/
+54.36.148.227
+0 1 1 61448 0 0
+-
+54.36.148.111
+0 2 1 46322 1 1546375421
+/
+14.169.195.88
+0 1 1 6904 1 1546484190
+/administrator/
+54.36.148.13
+0 2 2 203409 1 1546348561
+/
+151.80.39.29
+0 2 0 638 2 1546434188
+/
+195.34.75.83
+0 12 6 202674 6 1547081310
+/
+54.36.148.67
+0 1 1 54659 1 1546656240
+/
+184.154.139.47
+0 41 30 1532942 2 1546870669
+/
+54.36.148.64
+0 2 2 72952 2 1546778914
+/
+54.36.148.96
+0 1 1 87440 1 1546759280
+/
+54.36.148.232
+0 1 1 62516 1 1546384004
+/
+14.248.132.147
+0 1 0 4573 1 1546521466
+/administrator/
+113.161.32.65
+0 1 1 6904 1 1546525156
+/administrator/
+157.55.39.77
+0 1 1 58660 1 1546825857
+/
+5.196.87.62
+0 2 0 684 2 1546527311
+/
+190.152.182.150
+0 3 2 14316 1 1546931148
+/administrator/
+69.171.251.27
+0 9 9 343274 0 0
+-
+54.36.149.21
+0 2 2 102521 2 1546831557
+/
+185.100.85.101
+0 2 1 33779 1 1546671893
+/
+54.36.148.139
+0 2 2 86971 1 1546842442
+/
+104.244.76.13
+0 2 1 33779 1 1546874729
+/
+14.187.93.202
+0 1 0 4573 1 1546548414
+/administrator/
+54.36.148.81
+0 3 3 85981 2 1546421406
+/
+54.36.148.106
+0 1 1 97154 0 0
+-
+54.36.148.129
+0 1 1 42221 1 1546384260
+/
+54.36.148.167
+0 1 1 98648 0 0
+-
+54.36.148.103
+0 3 3 119843 3 1546864269
+/
+95.79.215.11
+0 2 1 33779 1 1546327311
+/
+151.80.39.27
+0 1 0 328 1 1546441176
+/
+175.138.190.227
+0 6 3 74215 1 1546852942
+/
+14.162.9.173
+0 1 1 6904 1 1546484941
+/administrator/
+5.196.87.40
+0 1 0 349 1 1546512108
+/
+95.163.255.29
+0 2 1 3393 1 1546713313
+/
+162.247.74.202
+0 7 3 174119 1 1546660034
+/
+64.62.252.174
+0 116 113 5324577 4 1546729535
+/
+151.80.39.30
+0 1 0 318 1 1546584558
+/
+107.175.239.222
+0 5 4 142242 1 1546630297
+/
+190.6.176.102
+0 2 1 11477 1 1546408550
+/administrator/
+113.172.25.176
+0 1 0 4573 1 1546498889
+/administrator/
+138.36.79.68
+0 46 4 322892 1 1547051869
+/
+5.2.199.88
+0 2 1 11477 1 1546314113
+/administrator/
+137.226.113.27
+0 2 1 57785 1 1546914489
+/
+54.36.148.107
+0 2 2 121836 2 1546615757
+/
+54.36.149.1
+0 1 1 56418 1 1546356319
+/
+27.79.150.217
+0 1 0 4573 1 1546505242
+/administrator/
+206.225.95.23
+0 2 1 57783 1 1546487312
+/
+54.36.148.202
+0 1 1 41618 1 1546390483
+/
+40.77.192.191
+0 1 1 1446 0 0
+-
+188.187.1.41
+0 2 1 11477 1 1546400406
+/administrator/
+117.5.41.176
+0 1 1 6904 1 1546506425
+/administrator/
+154.68.171.239
+0 2 1 11477 1 1546449853
+/administrator/
+14.162.28.14
+0 1 0 4573 1 1546554759
+/administrator/
+178.32.147.150
+0 9 4 175308 1 1546660026
+/
+181.129.59.3
+0 3 2 14316 1 1546690036
+/administrator/
+54.36.148.246
+0 1 1 62516 1 1546746180
+/
+91.109.118.73
+0 2 1 57751 1 1546339666
+/
+45.76.2.84
+0 2 1 57751 1 1546821762
+/
+222.254.12.192
+0 1 0 4573 1 1546522581
+/administrator/
+54.36.149.59
+0 1 1 3401 1 1546395373
+/
+171.245.25.168
+0 2 1 7412 1 1546515498
+/administrator/
+5.196.87.10
+0 1 0 315 1 1546562305
+/
+54.36.148.241
+0 3 3 154240 2 1546709983
+/
+41.222.158.83
+0 2 1 11477 1 1546666107
+/administrator/
+151.80.39.114
+0 1 0 314 1 1546612863
+/
+46.4.63.196
+0 7 0 2905 3 1546918163
+/
+54.36.148.86
+0 4 4 264805 3 1546620102
+/
+54.36.148.152
+0 2 2 72293 2 1546366769
+/
+134.249.52.146
+0 9 0 2367 3 1546922176
+/
+123.21.82.5
+0 1 1 6904 1 1546533111
+/administrator/
+199.249.230.88
+0 2 1 33779 1 1546785958
+/
+54.36.149.92
+0 2 2 115085 2 1546386303
+/
+54.36.149.28
+0 2 2 163552 2 1546691993
+/
+54.36.148.177
+0 2 1 66403 2 1546871948
+/
+113.174.70.53
+0 2 2 13808 1 1546548386
+/administrator/
+178.128.244.89
+0 7 6 259251 1 1546765677
+/
+216.244.66.195
+0 48 0 13892 22 1546840054
+/
+171.242.119.208
+0 1 1 6904 1 1546521416
+/administrator/
+46.211.111.119
+0 2 1 33779 1 1546533543
+/
+93.158.166.139
+0 2 1 1094 1 1546662201
+/
+66.249.66.137
+0 8 4 278760 2 1546748141
+/
+54.36.148.253
+0 2 2 118038 1 1546362105
+/
+14.186.239.67
+0 1 0 4573 1 1546517874
+/administrator/
+46.119.123.101
+0 14 1 36935 5 1546753836
+/
+194.99.105.57
+0 2 1 1161 1 1546765180
+/
+89.39.107.190
+0 2 1 57752 1 1546695309
+/
+54.36.149.47
+0 1 1 65781 1 1546394682
+/
+113.190.146.163
+0 1 1 6904 1 1546554757
+/administrator/
+54.36.149.32
+0 1 1 47913 1 1546713094
+/
+123.20.58.15
+0 2 1 7412 1 1546527664
+/administrator/
+79.106.108.110
+0 4 2 22954 2 1546650809
+/administrator/
+14.169.191.63
+0 1 0 4573 1 1546516631
+/administrator/
+54.36.148.29
+0 1 1 67361 1 1546390339
+/
+31.184.238.101
+0 2 1 33779 1 1546929520
+/
+157.55.39.95
+0 1 1 47653 1 1546377721
+/
+54.36.149.86
+0 1 1 3371 1 1546642363
+/
+151.80.39.37
+0 2 0 630 2 1546455367
+/
+116.101.235.127
+0 1 1 6904 1 1546530383
+/administrator/
+54.36.149.48
+0 3 3 179845 2 1546907888
+/
+222.165.230.16
+0 7 3 112209 1 1546372158
+/
+54.36.149.14
+0 1 0 311 1 1546750938
+/
+185.211.245.167
+0 920 462 5364437 33 1546744929
+/administrator/
+185.112.35.27
+0 1 0 287 1 1546491587
+/
+5.196.87.51
+0 2 0 622 2 1546629333
+/
+54.36.149.35
+0 1 1 64731 1 1546781333
+/
+54.36.148.148
+0 1 1 76668 0 0
+-
+5.196.87.58
+0 1 0 322 1 1546325717
+/
+54.36.148.130
+0 1 1 42251 1 1546557182
+/
+14.187.171.152
+0 1 0 4573 1 1546526448
+/administrator/
+113.173.88.166
+0 1 0 4573 1 1546495409
+/administrator/
+31.184.238.115
+0 3 2 115357 1 1546873850
+/
+170.238.63.30
+0 3 2 14316 1 1546357964
+/administrator/
+138.36.79.227
+0 88 41 1635536 1 1546967121
+/
+54.36.148.74
+0 1 0 304 1 1546325222
+/
+212.200.27.230
+0 2 1 11477 1 1546595051
+/administrator/
+5.196.87.52
+0 1 0 338 1 1546364085
+/
+113.173.236.92
+0 2 1 7412 1 1546502454
+/administrator/
+184.154.139.48
+0 155 130 6585934 4 1546957073
+/
+14.234.74.98
+0 1 0 4573 1 1546493168
+/administrator/
+95.216.96.170
+0 9 4 59777 1 1546377574
+/
+14.169.141.195
+0 1 0 4573 1 1546481705
+/administrator/
+82.211.57.202
+0 5 4 116270 1 1546887867
+/
+14.186.57.202
+0 1 0 4573 1 1546553484
+/administrator/
+54.36.148.171
+0 3 3 290182 1 1546360360
+/
+117.5.127.173
+0 1 1 6904 1 1546490139
+/administrator/
+54.36.148.35
+0 2 2 104713 2 1546397084
+/
+113.172.196.207
+0 1 0 4573 1 1546541017
+/administrator/
+54.36.148.183
+0 1 1 80727 0 0
+-
+54.36.148.204
+0 1 1 42200 1 1546325373
+/
+14.177.165.167
+0 1 1 6904 1 1546481695
+/administrator/
+157.55.39.176
+0 3 2 51725 1 1546898131
+/
+124.41.240.34
+0 3 2 14316 1 1546623918
+/administrator/
+171.234.150.84
+0 1 1 6904 1 1546511024
+/administrator/
+185.85.191.196
+0 8 4 45908 4 1546833253
+/administrator/
+157.55.39.34
+0 1 0 0 0 0
+-
+54.36.148.181
+0 1 1 6572 1 1546329318
+/
+151.80.39.104
+0 1 0 332 1 1546511175
+/
+123.126.113.188
+0 1 0 251 1 1546648170
+/
+207.46.13.201
+0 2 2 103268 1 1546650441
+/
+54.36.149.12
+0 4 4 293836 3 1546809874
+/
+157.55.39.17
+0 1 0 0 0 0
+-
+5.196.87.11
+0 1 0 314 1 1546329783
+/
+46.229.168.135
+0 2 0 655 2 1546793686
+/
+161.22.155.12
+0 25 25 1242399 2 1546794026
+/
+66.249.66.68
+0 1 1 842 0 0
+-
+74.126.23.230
+0 2 2 76694 1 1546828946
+/
+5.188.44.20
+0 3 2 116747 1 1546524815
+/
+93.158.161.122
+0 1 1 842 0 0
+-
+113.167.216.242
+0 1 0 4573 1 1546545847
+/administrator/
+123.49.49.78
+0 5 3 25793 2 1546656609
+/administrator/
+54.36.148.155
+0 3 3 185366 2 1546733419
+/
+37.212.16.110
+0 3 2 115353 1 1546609157
+/
+54.36.148.51
+0 1 1 119234 0 0
+-
+46.229.168.132
+0 1 0 323 1 1546928548
+/
+54.36.149.55
+0 3 2 71214 3 1546822983
+/
+178.137.16.151
+0 22 10 455426 6 1546732390
+/
+60.54.76.90
+0 1 0 943 1 1546387466
+/
+201.184.179.106
+0 2 1 11477 1 1546684390
+/administrator/
+74.207.253.60
+0 2 1 57753 1 1546804425
+/
+37.187.26.42
+0 4 2 115505 2 1546909287
+/
+125.16.128.118
+0 2 1 11477 1 1546473855
+/administrator/
+185.86.164.111
+0 8 4 45908 4 1546823498
+/administrator/
+190.186.60.131
+0 47 46 2033573 1 1546857511
+/
+110.249.177.114
+0 1 1 6904 1 1546589304
+/administrator/
+54.36.149.65
+0 1 1 46043 1 1546312920
+/
+124.121.22.121
+0 2 1 11477 1 1546511287
+/administrator/
+113.173.53.17
+0 1 1 6904 1 1546482579
+/administrator/
+178.79.181.200
+0 2 1 57757 1 1546783991
+/
+212.92.116.96
+0 6 1 4771 1 1546335690
+/
+54.36.149.67
+0 2 2 224484 1 1546311148
+/
+117.240.59.115
+0 2 1 11477 1 1546894265
+/administrator/
+66.249.64.113
+0 3 1 191676 0 0
+-
+211.24.105.86
+0 2 1 11477 1 1546459621
+/administrator/
+54.36.148.248
+0 1 1 95350 0 0
+-
+123.20.173.232
+0 1 0 4573 1 1546485766
+/administrator/
+54.36.148.159
+0 2 1 4207 1 1546318607
+/
+51.254.132.238
+0 2 2 76694 1 1546828936
+/
+187.111.192.50
+0 5 3 25793 2 1546411930
+/administrator/
+54.36.148.20
+0 4 4 275124 2 1546644949
+/
+5.196.87.22
+0 2 0 677 2 1546539090
+/
+54.36.148.176
+0 1 1 99488 1 1546420656
+/
+116.203.43.177
+0 252 40 2607517 1 1546868961
+/
+69.171.251.7
+0 16 15 786063 1 1546660917
+/
+54.36.148.166
+0 2 2 55260 2 1546413457
+/
+178.159.37.38
+0 6 3 101337 3 1546943598
+/
+54.36.149.106
+0 2 2 156137 1 1546760684
+/
+206.180.165.147
+0 2 1 57753 1 1546914786
+/
+77.88.5.32
+0 4 3 59497 1 1546870729
+/
+207.46.13.109
+0 1 1 48226 1 1546570831
+/
+187.174.138.162
+0 23 23 1149018 1 1546541132
+/
+40.77.167.97
+0 1 1 46778 1 1546687289
+/
+66.249.66.132
+0 4 1 2568 0 0
+-
+5.196.87.47
+0 1 0 330 1 1546537311
+/
+171.241.237.69
+0 1 1 6904 1 1546538475
+/administrator/
+54.36.148.120
+0 1 1 87210 0 0
+-
+151.80.39.165
+0 1 0 353 1 1546319803
+/
+168.232.198.70
+0 3 2 14316 1 1546973461
+/administrator/
+207.46.13.133
+0 6 3 164942 2 1546960036
+/
+14.169.194.60
+0 1 1 6904 1 1546496210
+/administrator/
+117.131.235.198
+0 2 1 11477 1 1546494138
+/administrator/
+54.36.148.164
+0 4 3 190695 4 1546388859
+/
+111.202.101.135
+0 2 0 512 1 1546733207
+/
+54.36.149.8
+0 1 1 101786 0 0
+-
+54.36.148.211
+0 2 2 112041 2 1546374769
+/
+54.36.148.75
+0 3 3 130906 3 1546750803
+/
+54.36.149.93
+0 1 1 42245 1 1546553797
+/
+14.187.58.5
+0 1 0 4573 1 1546513237
+/administrator/
+113.162.174.227
+0 1 0 4573 1 1546507581
+/administrator/
+54.36.148.124
+0 1 1 65776 1 1546322091
+/
+54.36.149.22
+0 2 2 134534 2 1546386827
+/
+54.36.148.59
+0 1 1 1060103 0 0
+-
+151.80.39.34
+0 2 0 615 2 1546412937
+/
+113.172.29.198
+0 1 0 4573 1 1546509905
+/administrator/
+54.36.149.62
+0 1 1 129345 0 0
+-
+113.172.208.118
+0 1 0 4573 1 1546534547
+/administrator/
+54.36.149.20
+0 1 1 48031 1 1546367965
+/
+54.36.149.99
+0 1 1 65649 1 1546388204
+/
+151.80.39.98
+0 1 0 312 1 1546456475
+/
+77.88.5.9
+0 2 1 1090 1 1546612889
+/
+14.240.33.13
+0 1 1 6904 1 1546523870
+/administrator/
+54.36.148.234
+0 3 2 121404 3 1546791334
+/
+117.191.11.110
+0 2 1 11477 1 1546336629
+/administrator/
+54.36.148.99
+0 2 2 71833 2 1546383128
+/
+62.210.83.78
+0 4 2 115504 2 1546806638
+/
+113.178.44.89
+0 1 0 4573 1 1546544568
+/administrator/
+109.184.176.191
+0 4 2 67558 2 1546598186
+/
+54.36.148.22
+0 1 1 86720 0 0
+-
+54.36.149.0
+0 1 1 48055 1 1546317327
+/
+134.249.49.144
+0 9 0 2367 3 1546444819
+/
+222.252.116.138
+0 1 1 6904 1 1546497120
+/administrator/
+67.213.118.246
+0 6 4 153910 2 1546689890
+/
+106.120.173.127
+0 1 0 251 1 1546388914
+/
+54.36.148.47
+0 5 2 72110 2 1546709384
+/
+54.36.148.146
+0 1 1 54298 1 1546742080
+/
+207.241.231.170
+0 2 0 248 1 1546639582
+/
+95.163.255.34
+0 1 1 57523 1 1546351960
+/
+185.119.81.50
+0 6 3 34431 3 1546784737
+/administrator/
+54.36.148.38
+0 3 3 176707 1 1546792116
+/
+117.196.231.201
+0 3 2 14316 1 1546696265
+/administrator/
+89.31.57.5
+0 2 1 33779 1 1546361624
+/
+54.36.148.195
+0 4 4 199511 2 1546715650
+/
+144.168.162.250
+0 2 1 57777 1 1546916430
+/
+186.176.238.175
+0 1 1 62158 0 0
+-
+14.186.34.227
+0 1 0 4573 1 1546531789
+/administrator/
+45.120.51.174
+0 3 2 76955 1 1546514860
+/
+54.36.148.45
+0 1 1 64058 1 1546393760
+/
+176.109.10.180
+0 2 1 11477 1 1546958508
+/administrator/
+14.186.201.98
+0 1 1 6904 1 1546491702
+/administrator/
+187.162.120.78
+0 4 2 22954 2 1546762248
+/administrator/
+42.189.187.66
+0 6 3 74215 1 1546312995
+/
+157.55.39.45
+0 2 0 0 0 0
+-
+103.78.12.5
+0 3 2 115351 1 1546829229
+/
+37.9.87.148
+0 1 0 1148 1 1546506176
+/
+151.80.39.105
+0 3 0 948 3 1546588208
+/
+157.55.39.24
+0 1 0 0 0 0
+-
+178.154.244.135
+0 1 0 0 0 0
+-
+54.36.149.50
+0 1 1 131469 0 0
+-
+176.192.8.206
+0 2 1 11477 1 1546568665
+/administrator/
+178.127.6.129
+0 2 1 33779 1 1546531016
+/
+173.252.95.30
+0 8 0 0 0 0
+-
+66.249.66.64
+0 5 3 425936 3 1546947224
+/
+218.30.103.9
+0 1 0 251 1 1546301232
+-
+54.36.148.145
+0 3 3 203508 2 1546760734
+/
+118.174.234.26
+0 2 1 11477 1 1546870427
+/administrator/
+46.229.168.133
+0 1 0 261 0 0
+-
+159.69.215.174
+0 1 0 251 1 1546517210
+/
+14.248.157.195
+0 1 0 4573 1 1546482580
+/administrator/
+54.36.148.218
+0 1 1 67300 1 1546313376
+/
+123.24.205.205
+0 1 1 6904 1 1546493164
+/administrator/
+5.188.210.53
+0 4 2 67558 2 1546676879
+/
+171.237.151.100
+0 2 2 13808 1 1546552123
+/administrator/
+37.115.206.209
+0 7 3 136182 1 1546691365
+/
+54.36.148.133
+0 1 1 67055 0 0
+-
+188.163.109.153
+0 4 2 67558 2 1546796825
+/
+89.223.30.116
+0 6 3 173260 3 1546903631
+/
+213.142.218.226
+0 3 2 14316 1 1546789165
+/administrator/
+54.36.149.41
+0 1 1 68576 1 1546851766
+/
+5.196.87.43
+0 1 0 320 1 1546567893
+/
+134.249.67.95
+0 9 0 2367 3 1546934267
+/
+14.177.196.157
+0 1 1 6904 1 1546526446
+/administrator/
+178.137.93.221
+0 12 0 3156 4 1546865706
+/
+178.159.37.28
+0 13 7 172074 3 1546729201
+/
+54.36.148.26
+0 1 1 67266 1 1546304409
+/
+176.9.146.74
+0 2 0 502 1 1546719448
+/
+188.244.175.2
+0 2 1 11477 1 1546947395
+/administrator/
+54.36.148.187
+0 2 2 47412 1 1546374438
+/
+176.9.156.15
+0 43 40 1620872 1 1546843847
+/
+141.8.144.37
+0 4 3 2301 4 1546688108
+/
+54.36.148.31
+0 2 2 70647 2 1546828342
+/
+46.229.168.143
+0 1 0 262 0 0
+-
+138.246.253.5
+0 2 0 0 2 1547161040
+/
+218.208.132.51
+0 7 3 113114 1 1546757409
+/
+95.216.96.245
+0 9 6 418870 1 1546753412
+/
+5.196.87.38
+0 1 0 305 1 1546555208
+/
+36.89.129.241
+0 2 1 11477 1 1546445414
+/administrator/
+123.126.113.80
+0 1 0 251 1 1547425855
+/
+64.201.88.14
+0 2 2 76694 1 1546828940
+/
+62.12.176.114
+0 16 10 323512 1 1546621622
+/
+85.192.162.173
+0 10 2 78774 10 1546997270
+/
+50.3.89.167
+0 1 1 51333 1 1546531965
+/
+192.160.102.169
+0 2 0 1726 0 0
+-
+54.36.148.27
+0 4 4 285663 3 1546400046
+/
+178.154.244.164
+0 2 2 58229 2 1546640540
+/
+5.157.40.20
+0 5 3 97327 1 1546339691
+/
+212.77.130.65
+0 2 1 11477 1 1546780120
+/administrator/
+123.1.150.244
+0 5 2 23462 1 1546942118
+/administrator/
+37.9.87.225
+0 1 0 248 1 1546870709
+/
+5.196.87.55
+0 1 0 312 1 1546403350
+/
+151.80.39.109
+0 1 0 320 1 1546617530
+/
+151.80.39.151
+0 1 0 363 1 1546475433
+/
+54.36.149.83
+0 1 1 86042 0 0
+-
+138.99.227.60
+0 1 1 58844 0 0
+-
+14.167.230.134
+0 1 0 4573 1 1546514374
+/administrator/
+69.171.251.3
+0 6 6 167205 0 0
+-
+14.232.245.171
+0 1 0 4573 1 1546549540
+/administrator/
+157.55.39.48
+0 1 1 842 0 0
+-
+38.79.215.62
+0 2 1 57757 1 1546927543
+/
+31.184.238.222
+0 7 4 117032 1 1546420928
+/
+31.184.238.107
+0 8 5 231329 2 1546913610
+/
+113.172.235.58
+0 1 0 4573 1 1546533113
+/administrator/
+91.233.43.17
+0 7 3 112209 1 1546916821
+/
+54.36.149.101
+0 4 3 194055 3 1546873538
+/
+68.119.96.146
+0 2 2 76694 1 1546828943
+/
+14.186.163.14
+0 1 1 6904 1 1546545844
+/administrator/
+54.36.148.254
+0 4 4 290330 3 1546868281
+/
+54.36.148.14
+0 1 1 61822 1 1546370753
+/
+183.230.179.164
+0 2 1 11477 1 1546561332
+/administrator/
+40.77.167.83
+0 1 1 47674 1 1546824294
+/
+51.255.65.46
+0 1 1 65956 1 1546850391
+/
+104.233.236.202
+0 2 1 33779 1 1546802617
+/
+123.21.73.149
+0 1 1 6904 1 1546497955
+/administrator/
+54.36.148.93
+0 4 3 184131 3 1546373110
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+89.248.174.141
+0 1 0 863 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://matematicaluchin.com/
+1 1
+http://lesbian.porn.relayblog.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/practicos-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/foro/temas-secundaria-4/20-1-ecuaciones
+1 14
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/temas-algebra
+1 1
+https://s-forum.biz/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/pregunta-de-analisis-2do-secundaria
+1 1
+http://free.porn.tv.xblognetwork.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/foro-general
+1 1
+http://matematicaluchin.com/index.php/en/
+1 280
+http://www.matematicaluchin.com/index.php/en/index.php/en/
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/examenes-resueltos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/examenes-resueltos-calculo-ii
+1 1
+http://matematicaluchin.com/index.php/en/calculo-general/calculo-i/temas-calculo-i
+1 3
+https://66.96.149.32:443/
+0 4
+http://allvacancy.ru/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/examenes-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/ejemplos-resueltos-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/pregunta-de-analisis-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra
+1 1
+http://matematicaluchin.com/index.php/en/cursos-secundaria/5to-secundaria/examenes-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/79-anton-jensen
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/
+1 1
+http://bestfortraders.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/78-kaitie-leslie
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/temas-algebra
+1 1
+http://bin-brokers.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/ejemplos-resueltos-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/foro/6-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/80-demo-contents/students-highlight/113-an-an-tran
+1 1
+https://arabic-poetry.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/pregunta-de-analisis-algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/examenes-resueltos-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/component/banners/click/6
+1 8
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/examenes-algebra
+1 1
+https://ege-essay.ru/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/temas-4to-secundaria
+1 1
+http://matematicaluchin.com/index.php/en/foro/examen-resueltos-calculo-1/3140-solucion-examen-final-calculo-1
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/ejemplos-resueltos
+1 1
+http://matematicaluchin.com/index.php/en/financiera-estadistica/estadisticas-i/practicos-estadisticas-i
+1 1
+https://cattyhealth.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera
+1 1
+https://www.eurocredit.xyz/
+0 3
+https://svensk-poesi.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/pregunta-de-analisis-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/112-duni-nguyen
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/examenes-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/pregunta-de-analisis-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/pregunta-de-analisis-calculo-ii
+1 1
+http://matematicaluchin.com/index.php/en/financiera-estadistica/estadisticas-i/temas-estadisticas-i
+1 8
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/examenes-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i
+1 1
+http://www.google.com/url
+1 139
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/examenes-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/pregunta-de-analisis-4to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/ejemplos-resueltos-4to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/temas-matematicas-financiera
+1 1
+http://serialsx.ru/
+0 3
+http://matematicaluchin.com/index.php/component/users/
+1 52
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/examenes-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/ejemplos-resueltos-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/examenes-4to-secundaria
+1 1
+http://matematicaluchin.com/index.php/en/component/users/
+1 47
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/practicos-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/114-doni-nguyen
+1 1
+http://matematicaluchin.com/administrator/index.php
+1 1210
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/temas-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/practicos-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/ejemplos-resueltos-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/80-demo-contents/students-highlight/112-duni-nguyen
+1 1
+https://vezdevoz.com.ua/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/examenes-resueltos-1ero-secundaria
+1 1
+https://francaise-poesie.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i
+1 1
+http://matematicaluchin.com/t3-assets/css/css-bf3d8.css
+1 64
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/pregunta-de-analisis-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/examenes-4to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/pregunta-de-analisis-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/practicos-4to-secundaria
+1 1
+http://www.matematicaluchin.com/t3-assets/css/css-96873.css
+1 14
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/component/users/
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/temas-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/t3-assets/css/css-bcd1c.css
+1 2
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/practicos-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/temas-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/75-reese-bettin
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/examenes
+1 1
+http://www.anabolics.shop/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/ejemplos-resueltos-algebra
+1 1
+http://matematicaluchin.com/
+1 115
+https://spain-poetry.com/
+0 6
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/practicos-4to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/temas-5to-secundaria
+1 1
+https://javcoast.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/ejemplos-resueltos-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/examenes-estadisticas-i
+1 1
+https://evercar.biz
+0 2
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/examenes-resueltos-algebra
+1 1
+http://matematicaluchin.com
+1 6
+https://www.facebook.com/
+0 4
+https://yandex.ru/clck/jsredir
+0 2
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/ejemplos-resueltos-algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/examenes-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/temas-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/examenes-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/practicos-algebra
+1 1
+https://rustag.ru/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/examenes-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/ejemplos-resueltos-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/examenes-3ro-secundaria
+1 1
+https://mrbojikobi4.biz/
+0 6
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/practicos-2do-secundaria
+1 1
+https://www.google.com/
+1 11
+- (Direct Request)
+0 4575
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/81-colleen-zajac
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/temas-estadisticas-i
+1 1
+https://supermama.top/
+0 6
+https://sel-hoz.com/
+0 3
+http://matematicaluchin.com/index.php/en/cursos-secundaria/2do-de-secundaria/practicos-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/examenes-resueltos-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/practicos-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/113-an-an-tran
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/practicos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/examenes-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/examenes-resueltos-matematicas-financiera
+1 1
+http://matematicaluchin.com/index.php/en/foro/temas-calculo-i/69-6-aplicaciones
+1 14
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/21-sample-data-articles/joomla/extensions/components/1-administrator-components
+1 10
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/ejemplos-resueltos-6to-secundaria
+1 1
+matematicaluchin.com
+1 8
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/examenes-resueltos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/80-demo-contents/students-highlight/76-pretium-sapien
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/ejemplos-resueltos-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/examenes-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/pregunta-de-analisis-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/80-courtney-cubrich
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/
+1 112
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/practicos-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/practicos-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/temas-calculo-ii
+1 1
+https://matematicaluchin.com/index.php/en/
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/examenes-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/examenes-resueltos-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/temas-2do-secundaria
+1 1
+http://localdating.instakink.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra/examenes-algebra
+1 1
+http://matematicaluchin.com/index.php/en/component/users
+1 55
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria
+1 1
+http://farm.porn.xblognetwork.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/examenes-resueltos-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/pregunta-de-analisis-estadisticas-i
+1 1
+http://sssexxx.net/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/examenes-resueltos-5to-secundaria
+1 1
+Google
+2 152
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/pregunta-de-analisis-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/pregunta-de-analisis-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/temas-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php
+1 9
+https://skazki-rus.ru/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/pregunta-de-analisis-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/geography
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/temas-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/practicos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/pregunta-de-analisis
+1 1
+https://predmety.in.ua/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/geography
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/ejemplos-resueltos-6to-secundaria
+1 1
+https://doggyhealthy.com/
+0 3
+https://jav-fetish.site/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/ejemplos-resueltos-calculo-ii
+1 1
+http://british.porn.instakink.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/pregunta-de-analisis-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-ii/temas-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria
+1 1
+https://www.souvenirua.com/
+0 6
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/examenes-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/temas
+1 1
+https://www.matematicaluchin.com/
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/practicos-1ero-secundaria
+1 1
+[url
+0 4
+https://moyparnik.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/ejemplos-resueltos-4to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/practicos-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/examenes
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/temas-1ero-secundaria
+1 1
+https://www.matematicaluchin.com
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/6to-de-secundaria/temas-6to-secundaria
+1 1
+https://javlibrary.cc/
+0 3
+https://tamada69.com/
+0 3
+http://matematicaluchin.com/t3-assets/css/css-bcd1c.css
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/ejemplos-resueltos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/76-pretium-sapien
+1 1
+https://automobile-spec.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/ejemplos-resueltos-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/examenes
+1 1
+https://rus-lit.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/practicos-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/forum/temas-secundaria-1/3108-lan-og-spar-invest-generalforsamling
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/pregunta-de-analisis-algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-50/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/practicos-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/80-demo-contents/students-highlight/114-doni-nguyen
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/component/users/
+1 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general
+1 1
+http://black.porn.fetlifeblog.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/practicos-2do-secundaria
+1 1
+http://matematicaluchin.com/index.php/en/foro/temas-estadistica/94-1-introduccion
+1 4
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/examenes-resueltos-algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/temas-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/pregunta-de-analisis-1ero-secundaria
+1 1
+http://matematicaluchin.com/index.php/en/foro/examenes-calculo-1/103-calculo-i-primer-parcial-2000/reply
+1 2
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/pregunta-de-analisis-4to-secundaria
+1 1
+http://matematicaluchin.com/index.php/en/component/k2/itemlist/user/109
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/pregunta-de-analisis-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/algebra/practicos-algebra
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/foro/temas-algebra/63-5-ecuaciones
+1 35
+http://matematicaluchin.com/index.php
+1 68
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/21-sample-data-articles/joomla/extensions/components
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/3ro-de-secundaria/ejemplos-resueltos-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/component/users/
+1 24
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/examenes-resueltos
+1 1
+https://painting-planet.com/
+0 3
+http://gidonline.one/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/examenes-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/80-demo-contents/students-highlight/77-joe-canny
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/80-demo-contents/students-highlight/81-colleen-zajac
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/practicos
+1 1
+http://onebetbest.com/push.php
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-i/practicos-calculo-i
+1 1
+http://dating.sites.instasexyblog.com
+0 1
+https://inmoll.com/
+0 6
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/temas-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-53-33/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-52-10/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/5to-secundaria/ejemplos-resueltos-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/2do-de-secundaria/examenes-resueltos-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/ejemplos-resueltos-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii
+1 1
+http://pinterest.com/pin/272678952421933803/
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/examenes-resueltos-4to-secundaria
+1 1
+http://matematicaluchin.com/t3-assets/css/css-96873.css
+1 7
+http://matematicaluchin.com/index.php/en/foro/examenes-calculo-1/103-calculo-i-primer-parcial-2000
+1 1
+http://anima.porn.xblognetwork.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/pregunta-de-analisis-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/4to-de-secundaria/examenes-resueltos-4to-secundaria
+1 1
+https://deutsche-poesie.com/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-53-33/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/index.php
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/1-de-secundaria/examenes-resueltos-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/pregunta-de-analisis
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/matematicas-financiera/ejemplos-resueltos-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general/2014-12-10-00-50-16/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/historia-general
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/financiera-estadistica/estadisticas-i/practicos-estadisticas-i
+1 1
+http://su1ufa.ru/
+0 3
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/1-de-secundaria/pregunta-de-analisis-1ero-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/matematicas-financiera/examenes-resueltos-matematicas-financiera
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/practicos-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/temas-calculo-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-50/ejemplos-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/temas
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/foro-general
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/4to-de-secundaria/temas-4to-secundaria
+1 1
+http://ukporn.instakink.com
+0 1
+http://matematicaluchin.com/index.php/en/calculo-general/calculo-ii/examenes-resueltos-calculo-ii
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/ejemplos-resueltos-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/pregunta-de-analisis-3ro-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-52-10/practicos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/3ro-de-secundaria/temas-3ro-secundaria
+1 1
+http://www.google.com.hk
+1 2
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/cursos-secundaria/6to-de-secundaria/examenes-resueltos-6to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/financiera-estadistica/estadisticas-i/examenes-resueltos-estadisticas-i
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/index.php/en/calculo-general/calculo-i/examenes-resueltos
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/calculo-general/calculo-ii/examenes-calculo-ii
+1 1
+http://www.matematicaluchin.com/
+1 12
+http://lesbian.feet.bestsexyblog.com
+0 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/2do-de-secundaria/examenes-resueltos-2do-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/cursos-secundaria/5to-secundaria/ejemplos-resueltos-5to-secundaria
+1 1
+http://www.matematicaluchin.com/index.php/en/index.php/en/historia-general/2014-12-10-00-50-16/examenes-resueltos
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 5723
+MSIE 7.0
+0 7
+Java/1.8.0_191
+0 2
+MSIE 5.5
+0 3
+Internet Explorer 5
+2 3
+AhrefsBot/5.2
+0 97
+archive.o
+0 2
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 7
+Mozilla/4.6
+0 3
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 19
+Netscape 6 compatible
+2 5723
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 88
+Opera 9.0
+0 3
+Mozilla/4.7
+0 3
+Exabot/3.0
+0 32
+Netscape 4 (or compatible)
+2 6
+WebCapture 2.0
+0 3
+SEOkicks
+0 18
+Researchscan/t12sns
+0 4
+Seoterritory.com bot
+0 5
+Go-http-client/1.1
+0 2
+Linux x86_64
+0 9
+Researchscan/t13rl
+0 2
+Opera 7.5
+0 3
+Googlebot-Image/1.0
+0 4
+Internet Explorer 3
+2 3
+Opera 8.0
+0 3
+AhrefsBot/6.1
+0 493
+SemrushBot/3~bl
+0 14
+Internet Explorer 6
+2 281
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 3
+Mozilla/0.9
+0 3
+ips-agent)"
+0 5
+MSIE 9.0
+0 152
+The Knowledge AI
+0 116
+Mozilla/0.6
+0 3
+Opera
+2 9
+Mozilla/4.0 (compatible- MSIE 6.0- Windows NT 5.1- SV1- .NET CLR 1.1.4322
+0 6
+Googlebot/2.1
+0 61
+Pinterestbot/1.0
+0 1
+Researchscan/t12ca
+0 2
+python-requests/2.21.0
+0 36
+MegaIndex.r
+0 2
+MSIE 6.0
+0 275
+DotBot/1.1
+0 48
+YandexBot/3.0
+0 44
+yoozBot-2.2
+0 4
+MSIE 3.0
+0 3
+BLEXBot/1.0
+0 7
+bingbot/2.0
+0 56
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

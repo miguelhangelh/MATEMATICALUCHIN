@@ -1,0 +1,184 @@
+
+a:active,
+a:focus {
+  outline: 0;
+}
+img {
+  border: none;
+}
+#k2Container {
+  padding: 0 0 24px 0;
+}
+body.contentpane #k2Container {
+  padding: 16px;
+}
+.k2Padding {
+  padding: 4px;
+}
+.clr {
+  clear: both;
+  height: 0;
+  line-height: 0;
+  display: block;
+  float: none;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+.even {
+  background: #fffff0;
+  border-bottom: 1px dotted #ccc;
+  padding: 2px;
+}
+.odd {
+  background: #fff;
+  border-bottom: 1px dotted #ccc;
+  padding: 2px;
+}
+div.k2FeedIcon {
+  padding: 4px 8px;
+}
+div.k2FeedIcon a,
+div.k2FeedIcon a:hover,
+div.k2FeedIcon a:active,
+div.k2FeedIcon a:focus {
+  background: url(../images/fugue/feed.png) no-repeat 50% 50%;
+  display: block;
+  float: left;
+  height: 16px;
+  margin: 0;
+  padding: 0;
+  width: 16px;
+}
+div.k2FeedIcon a span,
+div.k2FeedIcon a:hover span,
+div.k2FeedIcon a:active span,
+div.k2FeedIcon a:focus span {
+  display: none;
+}
+div.itemListCategory {
+  background: #fff;
+  border: 1px solid #ddd;
+  margin: 0;
+  padding: 10px;
+}
+span.catItemAddLink {
+  border-bottom: 1px dotted #ccc;
+  display: block;
+  margin: 0 0 4px 0;
+  padding: 8px 0;
+  text-align: left;
+}
+span.catItemAddLink a {
+  background: #eee;
+  border: 1px solid #ccc;
+  padding: 4px 16px;
+  text-decoration: none;
+}
+span.catItemAddLink a:hover {
+  background: #ffffcc;
+}
+div.itemListCategory img {
+  background: #fff;
+  display: block;
+  float: right;
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+div.itemListCategory h2 {
+  margin: 0 0 10px;
+  padding: 0;
+  text-transform: uppercase;
+}
+div.itemListCategory p {
+  margin: 0;
+}
+div.itemListSubCategories h3 {
+  font-size: 2.917em;
+  font-weight: normal;
+  margin-bottom: 20px;
+  padding-right: 10px;
+}
+div.itemListSubCategories div.subCategoryContainer {
+  float: right;
+  margin-bottom: 40px;
+}
+div.itemListSubCategories div.subCategoryContainer div.subCategory {
+  background: none;
+  border: 0;
+  margin: 0 10px;
+  padding: 0;
+}
+div.itemListSubCategories div.subCategoryContainer div.subCategory h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryImage img,
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryImage:hover img {
+  background: #fff;
+  border: 1px solid #ddd;
+  margin: 0;
+  padding: 9px;
+}
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryMore {
+  background: url(../images/readon-bg.png) no-repeat right center;
+  padding-right: 18px;
+}
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryMore:hover,
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryMore:active,
+div.itemListSubCategories div.subCategoryContainer div.subCategory a.subCategoryMore:focus {
+  background-image: url(../images/readon-hover-bg.png);
+}
+div.itemListBlogView div.itemContainer {
+  margin-bottom: 20px;
+  position: relative;
+}
+div.itemListBlogView div.itemContainer div.catItemView {
+  border-bottom: 2px solid #eee;
+  margin-right: 170px;
+  padding-bottom: 20px;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta {
+  position: absolute;
+  max-width: 150px;
+  right: 0;
+  top: 7px;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span {
+  border-bottom: 1px solid #eee;
+  color: #333;
+  display: block;
+  padding: 7px 20px 5px 0;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.catItemDateCreated,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.itemDateCreated,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.userItemDateCreated,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.tagItemDateCreated,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.genericItemDateCreated {
+  background: #6e7784;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.167em;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.catItemAuthor,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.itemAuthor {
+  background: url(../images/ico/icon-user.png) no-repeat right center;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.catItemCategory,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.itemCategory,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.userItemCategory,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.tagItemCategory,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.genericItemCategory {
+  background: url(../images/ico/icon-folder.png) no-repeat right center;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.catItemCommentsLink,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.itemCommentsLink,
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span.userItemCommentsLink {
+  background: url(../images/ico/icon-comment.png) no-repeat right center;
+}
+div.itemListBlogView div.itemContainer div.catItemView div.blog-item-meta span strong {
+  color: #666;
+}

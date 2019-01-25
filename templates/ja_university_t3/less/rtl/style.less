@@ -1,0 +1,159 @@
+// RTL STYLES
+// ------------------------------------------------------
+
+// Article Images
+// --------------
+
+.languageswitcherload {
+  ul {
+    float: left;
+  }
+}
+
+.t3-bot-sl .module-ct ul.nav li a {
+  background-position: right 8px;
+  &:hover, &:focus, &:active {
+    background-position: right 8px;
+  }
+}
+
+// ---------------------------------------------------------
+// MODULE
+// --------------------------------------------------------- 
+
+
+
+// ---------------------------------------------------------
+// K2
+// ---------------------------------------------------------
+.k2LoginBlock ul li a, 
+.k2UserBlock ul li a {
+  background-position: right 6px;
+  &:hover, &:focus, &:active {
+    background-position: right 6px;
+  }
+}
+
+.catItemCommentsLink,
+.tagItemCategory,
+.userItemCommentsLink {
+  border-left: none;
+}
+
+.blog-item-meta span {
+  padding-right: @t3-global-padding;
+  position: relative;
+}
+
+.blog-item-meta span.catItemCommentsLink:before, 
+.blog-item-meta span.itemCommentsLink:before, 
+.blog-item-meta span.userItemCommentsLink:before, 
+.blog-item-meta span.latestItemCommentsLink:before,
+.blog-item-meta span.catItemCategory:before, 
+.blog-item-meta span.itemCategory:before, 
+.blog-item-meta span.userItemCategory:before, 
+.blog-item-meta span.tagItemCategory:before, 
+.blog-item-meta span.genericItemCategory:before, 
+.blog-item-meta span.latestItemCategory:before,
+.blog-item-meta span.catItemAuthor:before, 
+.blog-item-meta span.itemAuthor:before {
+  position: absolute;
+  right: 0; 
+}
+
+div.userItemReadMore a,
+div.tagItemReadMore a, 
+div.genericItemReadMore a, 
+div.catItemReadMore a, 
+div.latestItemReadMore a {
+  padding-right: @t3-global-padding* 0.75;
+  position: relative;
+  &:before {
+    position: absolute;
+    right: 0; 
+    top: 0;
+  }
+}
+
+.com_k2 .icon-48-k2 {
+  background-position: 0 50%;
+}
+
+.itemToolbar {
+  background: @gray-lightest;
+  border: 1px solid @btn-default-border;
+  margin: 0 0 20px;
+  padding: 5px;
+
+  ul {
+    list-style: none;
+    margin: 3px 0 0 0;
+    padding: 0;
+    text-align: right;
+
+    li {
+      background: none;
+      border-left: 1px solid @btn-default-border;
+      display: inline;
+      font-size: @font-size-base - 1;
+      list-style: none;
+      margin: 0;
+      padding: 0 4px 0 8px;
+      text-align: center;
+
+      a {
+        font-size: @font-size-base - 1;
+        font-weight: normal;
+
+        img {
+          vertical-align: middle;
+        }
+
+        &#fontDecrease, &#fontIncrease {
+          span {
+            display: none;
+          }
+        }
+
+        &#fontDecrease {
+          margin: 0 0 0 2px;
+
+          img {
+            height: 13px;
+            width: 13px;
+          }
+        }
+
+        &#fontIncrease {
+          margin: 0 0 0 2px;
+
+          img {
+            height: 13px;
+            width: 13px;
+          }
+        }
+      }
+    }
+
+    > li:first-child {
+      border: none; 
+    }
+  }
+}
+
+//Slideshow lite 
+//--------------------------------
+.ja-ss-item {
+  .ja-ss-mask {
+    background: url("@{t3-image-path}/mask-left.png") no-repeat left top;
+    right: auto;
+    left: 0;
+    top: 0;
+    
+    &.mask-right {
+      background: url("@{t3-image-path}/mask-right.png") no-repeat right top;
+      left: auto;
+      right: 0;
+    }
+  }
+}

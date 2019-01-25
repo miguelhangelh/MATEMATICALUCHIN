@@ -1,0 +1,103 @@
+/**
+ * $JA#COPYRIGHT$
+ */
+ 
+// VARIABLES & MIXINS
+// ------------------
+@import "vars.less"; // Modify this for custom colors, font-sizes, etc
+
+
+// --------------------------------------------------
+// MODULE SIDENEWS
+// --------------------------------------------------
+.ja-slidenews-item {
+  border-bottom: 1px solid @tpl-color-border;
+  padding: 15px 0;
+  float: left;
+  clear: both;
+  width: 100%;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .ja-title {
+    color: @gray-dark;
+    display: block;
+    font-weight: normal;
+    font-size: 1.250em;
+    margin-bottom: 3px;
+    line-height: 1.3;
+    // Link States 
+    &:hover, &:focus, &:active {
+      color: @link-hover-color;
+    }
+  }
+
+  .ja-createdate {
+    color: @gray-light;
+    display: block;
+    font-weight: normal;
+    margin-bottom: @t3-global-margin / 5;
+    padding: 0px;
+  }
+
+  img {
+    border: 0;
+    margin-right: @t3-global-margin;
+    margin-top: @t3-global-margin / 4;
+  }
+
+  img[align="left"]  {
+    margin-right: @t3-global-margin;
+  }
+
+  img[align="right"]  {
+    margin-left: @t3-global-margin;
+  }
+
+}
+
+.ja-sidenews-title {
+  font-weight: bold;
+}
+
+.ja-sidenews-postdate {
+  font-size: 85%;
+}
+
+.ja-sidenews {
+  cursor: pointer;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  padding: 0;
+  width: 100%;
+}
+
+.ja-sidenews-display {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.ja-sidenews-desc {
+  padding: 0px 3px;
+}
+
+.ja-slidenews-cover {
+  bottom: 0;
+  float: left;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  z-index: 3;
+}

@@ -1,0 +1,624 @@
+/**
+ * $JA#COPYRIGHT$
+ */
+
+// ---------------------------------------------------------
+// MAIN TEMPLATE STYLES
+// ---------------------------------------------------------
+
+// 
+// HEADER
+// ---------------------------------------------------------
+
+.t3-header {
+  background: @t3-header-background;
+  border-bottom: 1px solid @t3-header-border;
+  padding-top: @t3-global-padding / 2;
+  padding-bottom: @t3-global-padding / 2;
+}
+
+
+// Logo
+// ----
+.logo {
+
+  text-align: center;
+
+  // Left align the logo on  Tablets / Desktop
+  @media screen and (min-width: @screen-sm) {
+    text-align: left;
+  }
+
+  a {
+    display: inline-block;
+    line-height: 1;
+    margin: 0;
+    max-width: 100%;
+  }
+
+}
+
+// Logo Image
+// ----------
+.logo-image {
+
+  // Left align the logo on  Tablets / Desktop
+  @media screen and (min-width: @screen-sm) {
+    margin-left: @t3-global-padding / 2;
+  }
+
+  // Hide sitename and slogan
+  span, small {
+    display: none;
+  }
+}
+
+
+
+// Logo Text
+// ----------
+.logo-text {
+
+  a {
+    color: @t3-header-logo-text-color;
+    text-decoration: none;
+    font-size: ceil(@font-size-base * 2);
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  &:hover a,
+  a:hover,
+  a:active,
+  a:focus {
+    color: @link-color;
+    text-decoration: none;
+  }
+
+  // Taglines
+  .site-slogan {
+    color: @t3-header-text-color;
+    display: block;
+    font-size: @font-size-base - 5;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+  }
+
+}
+
+// Head Search
+// -----------
+.head-search {
+  float: right;
+  display: inline-block;
+  margin: 14px 0 0 0;
+  .clearfix();
+
+  .search {
+    
+    @media screen and (min-width: @screen-sm) {
+      float: right;
+    }
+  }
+
+  form {
+    margin: 0;
+  }
+  
+  label {
+    display: none;
+  }
+  
+  .form-control {
+    background: @tpl-bg-button;
+    border: 1px solid @tpl-border-button;
+    box-shadow: none;
+    color: @gray;
+    float: left;
+    font-size: @font-size-base - 1;
+    height: 30px;
+    margin: 0;
+    padding: 6px 10px;
+    
+    @media screen and (max-width: @screen-xs-max) {
+      width: 79%;
+    }
+
+    &:hover, &:active, &:focus {
+      background: @tpl-bg-button;
+      border: 1px solid @link-hover-color;
+      box-shadow: none;
+    }
+  }
+
+  .button {
+    background: @black;
+    border-color: @black;
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    text-indent: -9999em;
+    width: 36px;
+
+    &:before {
+      color: @white;
+      content: "\f002";
+      display: block;
+      font-family: "FontAwesome";
+      left: 11px;
+      position: absolute;
+      text-indent: 0;
+      top: 4px;
+    }
+
+    &:hover, &:active, &:focus {
+      background: @tpl-bg-highlight;
+      border-color: @tpl-bg-highlight;
+    }
+  }
+
+}
+
+
+
+// ---------------------------------------------------------
+// SPOTLIGHTS
+// ---------------------------------------------------------
+
+.t3-sl {
+  background: @t3-spotlight-background;
+  color: @t3-spotlight-color;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+
+  .module-title {
+    color: @t3-spotlight-module-title;
+  }
+
+  a {
+    color: @t3-spotlight-link;
+
+    &:hover {
+      color: @t3-spotlight-link-hover;
+    }
+  }
+
+  // Larger padding in Tablet / Desktop
+  @media screen and (min-width: @screen-sm) {
+    padding-bottom: @t3-global-padding * 3;
+    padding-top: @t3-global-padding * 3;
+  }
+}
+
+// Spotlight 1
+// -----------
+.t3-sl-1 {
+  border-bottom: solid 1px @tpl-color-border;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+// Spotlight 2
+// -----------
+.t3-sl-2 {
+  .container {
+    .module {
+      @media screen and (max-width: @screen-xs-max) {
+        margin-bottom: @t3-global-margin;
+      }
+    }
+  }
+}
+
+
+// Spotlight 3
+// -----------
+.t3-sl-3 {
+  .container {
+    border-top: 1px solid @tpl-bg-border-top;
+    .t3-module {
+       @media screen and (max-width: @screen-xs-max) {
+        margin-bottom: @t3-global-margin;
+      }
+    }
+  }
+}
+
+
+// Spotlight Dark
+// ----------------
+.t3-bot-sl{
+  background: @t3-spotlight-dark-background;
+  color: @t3-spotlight-dark-color;
+  padding: 0;
+
+  .container {
+    padding-bottom: @t3-global-padding;
+    padding-top: @t3-global-padding;
+
+    .module {
+      margin-top: 0;
+      margin-bottom: @t3-global-margin;
+    }
+  }
+
+  // Module Title
+  // ------------
+  .module-title {
+    color: @t3-spotlight-dark-module-title;
+  }
+
+
+  // Module Content
+  // --------------
+  .module-ct {
+    a {
+      color: @t3-spotlight-dark-link;
+      display: inherit;
+      padding: 0;
+
+      &:hover, &:active, &:focus {
+        color: @t3-spotlight-dark-link-hover;
+      }
+    }
+
+    ul.nav {
+      li {
+        padding: 3px 0px;
+
+        a {
+          background: url("@{t3-image-path}/bullet-dark-ltr.gif") no-repeat 0px 6px;
+          border-bottom: 0;
+          padding-left: 8px;
+
+          &:hover, &:active, &:focus {
+            background-image: url("@{t3-image-path}/bullet-w-ltr.gif");
+            border-radius: 0;
+            color: @white;
+          }
+        }
+      }
+    }
+  }
+}
+
+.t3-sl-3 {
+  border-bottom: solid 1px @tpl-bg-border-bottom;
+}
+
+
+
+// ---------------------------------------------------------
+// MAIN BODY
+// ---------------------------------------------------------
+.t3-mainbody {
+  padding-top: @t3-global-padding ;
+  padding-bottom: @t3-global-padding;
+}
+
+// Content
+// -------
+.t3-content {
+  padding-top: @t3-global-padding/2;
+}
+
+// Sidebars
+// --------
+.t3-sidebar {
+  > .t3-sidebar {
+    @media screen and (max-width: @screen-xs-max) {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+.t3-sidebar1,
+.t3-sidebar2 {
+  padding-top: @t3-global-padding;
+  padding-bottom: @t3-global-padding;
+}
+
+
+
+// ---------------------------------------------------------
+// NAVHELPER
+// ---------------------------------------------------------
+.t3-navhelper {
+  background: @t3-navhelper-background;
+  border-bottom: 1px solid @tpl-bg-border-bottom;
+  border-top: 1px solid @tpl-bg-border-top;
+  color: @t3-navhelper-color;
+  padding: 0;
+
+  .breadcrumb {
+    background: @breadcrumb-bg;
+
+    li.active {
+      font-weight: bold;
+    }
+
+  }
+}
+
+
+
+// ---------------------------------------------------------
+// FOOTER
+// ---------------------------------------------------------
+.t3-footer {
+  background: @t3-footer-background;
+  border-top: 1px solid @tpl-bg-border-top;
+  color: @t3-footer-text-color;
+  .clearfix();
+
+  @media screen and (max-width: @screen-xs-max) {
+    text-align: center;
+  }
+
+  // small
+  small {
+    display: block;
+    font-size: 100%; //Use global footer font size.
+  }
+
+  // links
+  a {
+    // Link States
+    &:hover, &:active, &:focus {
+    }
+  }
+
+}
+
+// Foot Nav
+// --------
+.t3-footnav {
+  padding: @t3-global-padding 0;
+  .clearfix();
+
+  // Larger padding on Tablet / Desktop
+  @media screen and (min-width: @screen-sm) {
+    padding: (@t3-global-padding * 2) 0;
+  }
+
+  // Footnav Modules
+  .t3-module {
+    background: @t3-footer-module-background;
+    color: @t3-footer-module-text-color;
+    margin-top: @line-height-computed / 2;
+    margin-bottom: @line-height-computed / 2;
+
+    .module-title {
+      color: @t3-footer-module-title-color;
+      font-size: @font-size-large;
+      margin-bottom: @line-height-computed / 2;
+    }
+
+    ul {
+      list-style: none;
+      margin-left: 0;
+      margin-bottom: 0;
+      padding-left: 0;
+
+      > li {
+        line-height: 24px;
+        // links
+        > a {
+          color: @t3-footer-module-text-color;
+          // Link States
+          &:hover, &:active, &:focus {
+            color: @t3-footer-module-text-color;
+          }
+        }
+      }
+    }
+
+  }
+
+}
+
+// Copyright
+// ---------
+.t3-copyright {
+  color: @t3-footer-text-color;
+  font-size: @font-size-small;
+  padding: @t3-global-padding 0 @t3-global-padding 0;
+  .clearfix();
+  small {
+    margin-bottom: 5px;
+  }
+
+  a {
+    color: @t3-footer-link-color;
+
+    &:hover, &:active, &:focus {
+      color: @t3-footer-link-hover-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.copyright {
+}
+
+.poweredby {
+  .clearfix();
+
+  // Align right on Tablet / Desktop
+  @media screen and (min-width: @screen-sm-max) {
+    text-align: right;
+  }
+
+  .t3-logo,
+  .t3-logo-small {
+    .opacity(.8);
+    display: inline-block;
+  }
+}
+
+
+// Masshead
+// -----
+.jamasshead {
+  min-height: 100px;
+
+  .container {
+    padding-top: @t3-global-padding;
+    padding-bottom: @t3-global-padding;
+  }
+
+  h3 {
+    background-color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    color: @white;
+    font-size: 41px;
+    font-weight: normal;
+    padding: (@t3-global-padding/4) (@t3-global-padding/2);
+    margin: 0;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+    text-align: left;
+    text-transform: uppercase;
+    @media screen and (max-width: @screen-xs-max) {
+      font-size: 30px;
+    }
+  }
+
+  .jamasshead-description {
+    font-size: 16px;
+    .opacity(.8);
+    text-transform: none;
+  }
+}
+
+
+// Popup
+// -----
+.body-overlayed #sbox-window {
+  padding: 0;
+  border-radius: 0;
+}
+
+
+// Department
+#t3-department {
+  .container {
+    padding-top: @t3-global-padding*1.5;
+    
+    @media (min-width: @screen-sm) {
+      border-bottom: 1px solid @tpl-color-border;
+      margin-bottom: @t3-global-padding*1.5;
+      padding-bottom: @t3-global-padding*1.5;
+    }
+  }
+}
+
+//
+// DEMO TYPOGRAPHY
+// --------------------------------------------------------
+// Used for Typography Page. Removed if you don't want it :)
+
+.docs-section {
+  margin-bottom: @t3-global-margin * 2;
+  .page-header {
+    margin-bottom: @t3-global-margin;
+    h1 {
+      font-size: floor(@font-size-base * 3);
+    }
+  }
+}
+
+
+// Core Typo
+// ----------------
+.example-type {
+  h1,h2,h3,h4,h5,h6 {
+    margin: @t3-global-margin 0;
+  }
+}
+
+
+// Color Swatches
+// ----------------
+.example-colors {
+  .swatch-item {
+    width: 100%;
+    min-height: 100px;
+    position: relative;
+    background: @gray-dark;
+    color: @white;
+    margin-bottom: @t3-global-margin;
+    dl {
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      padding: @t3-global-padding;
+      margin: 0;
+    }
+  }
+  // The colors
+  .color-brand-primary {
+    background: @brand-primary;
+  }
+  .color-brand-secondary {
+    background: @brand-secondary;
+  }
+  .color-brand-success {
+    background: @brand-success;
+  }
+  .color-brand-danger {
+    background: @brand-danger;
+  }
+  .color-brand-warning {
+    background: @brand-warning;
+  }
+  .color-brand-info {
+    background: @brand-info;
+  }
+  // TGrayscale Levels
+  .color-gray-darker {
+    background: @gray-darker;
+  }
+  .color-gray-dark {
+    background: @gray-dark;
+  }
+  .color-gray {
+    background: @gray;
+  }
+  .color-gray-light {
+    background: @gray-light;
+    color: @gray-dark;
+  }
+  .color-gray-lighter {
+    background: @gray-lighter;
+    color: @gray-dark;
+  }
+  .color-gray-lightest {
+    background: @gray-lightest;
+    color: @gray-dark;
+  }
+}
+
+
+// Forms
+// ----------------
+.example-buttons,
+.example-inputs {
+  .btn,
+  .form-control {
+    width: 100%;
+    margin-bottom: @t3-global-margin;
+  }
+}
+
+.contentslider {
+
+  .t3-module {
+    margin-bottom: 0;
+  }
+
+  .module-title  {
+    margin-bottom: 8px;
+  }
+}
+
+

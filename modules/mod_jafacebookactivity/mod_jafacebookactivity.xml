@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extension type="module" version="2.5" client="site" method="upgrade">
+	<name>JA Facebook Activity Module</name>
+	<author>JoomlArt.com</author>
+	<creationDate>April 2014</creationDate>
+	<copyright>J.O.O.M Solutions Co., Ltd.</copyright>
+	<license>GNU/GPL V2 for PHP files. Read Terms of Service for details.
+	</license>
+	<authorEmail>webmaster@joomlart.com</authorEmail>
+	<authorUrl>www.joomlart.com</authorUrl>
+	<version>2.5.5</version>
+	<description>
+     	<![CDATA[
+		<div style='text-align: left;'>
+		<h1>JA Facebook Activity Module for Joomla! 2.5</h1>
+		<div style='font-weight: normal'>
+			<br /><br />
+			<p><span style='color: #ff6600;'><strong>Features:</strong></span></p>
+			<img border='0' alt='JA FACEBOOK ACTIVITY' src='http://asset.joomlart.com/images/stories/extensions/joomla/jaec_facebook_activity_mod.png?javer=1110041026' style='float: left'>This module is filled with activity from the user's friends. If there is not enough friend activity to fill in the content, it is autofilled with recommendations. If you set the recommendations parameter to "Yes", the module is split into two parts: top half shows friends activities, and the bottom show recommendations. If there is not enough friends activities to fill, module will include more recommendations.
+			<br /><br />
+			
+			<br />
+			<p><strong><span style='color: #ff0000;'>Upgrade Method:</span><br />
+			  </strong></p>
+			<ol>
+			  <li>You can install new version directly over this version. Uninstallation is not required. </li>
+			  <li>Backup any customized files before upgrading.</li>
+			</ol>
+			<br />
+			<p><span style='color: #008000;'><strong>Links:</strong></span></p>
+			<ul>
+			  <li><a target='_blank' href='http://update.joomlart.com/'>Updates &amp; Versions</a></li>
+			  <li><a target='_blank' href='http://www.joomlart.com/forums/showthread.php?51021'>General Userguide</a></li>
+			</ul>
+			<p>Copyright 2004 - 2014 <a href='http://www.joomlart.com/' title='Visit Joomlart.com!'>JoomlArt.com</a>.</p>
+		</div>
+		</div>
+		]]>
+	</description>
+
+	<files>
+		<folder>tmpl</folder>
+		<folder>asset</folder>
+		<filename>index.html</filename>
+		<filename module="mod_jafacebookactivity">mod_jafacebookactivity.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.mod_jafacebookactivity.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic" addfieldpath="/modules/mod_jafacebookactivity/asset/elements">
+				<field name="site" 
+					type="text" 
+					default="www.joomlart.com"
+					label="DOMAIN" 
+					description="DESC_Domain" />
+				<field name="header" 
+					type="radio" 
+					class="btn-group"
+					default="1" 
+					label="SHOW_HEADER"
+					description="DESC_SHOW_HEADER">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				<field name="recommendations" 
+					type="radio" 
+					class="btn-group"
+					default="0"
+					label="RECOMMENDATION" 
+					description="RECOMMENDATION_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+
+				<field type="spacer" hr="true" />
+				<field name="width" 
+					type="text" 
+					default="300" 
+					label="JA_FBA_WIDTH" 
+					filter="integer"
+					description="DESC_WITH" />
+				<field name="height" 
+					type="text" 
+					default="400" 
+					label="JA_FBA_HEIGHT" 
+					filter="integer"
+					description="DESC_HEIGHT" />
+				<field name="colorscheme" 
+					type="list" 
+					default="light" 
+					label="COLOR_SCHEME"
+					description="DESC_COLOR_SCHEME">
+					<option value="light">LIGHT</option>
+					<option value="dark">DARK</option>
+				</field>
+
+				<field name="font" 
+					type="list" 
+					default="" 
+					label="JA_FBA_FONT"
+					description="FONT_DESC">
+					<option value="">JA_FBA_SITE_DEFAULT</option>
+					<option value="arial">JA_FBA_ARIAL</option>
+					<option value="lucida grande">JA_FBA_LUCIDA</option>
+					<option value="segoe ui">JA_FBA_SEGOE</option>
+					<option value="tahoma">JA_FBA_TAHOMA</option>
+					<option value="trebuchet ms">JA_FBA_TREBUCHET</option>
+					<option value="verdana">JA_FBA_VERDANA</option>
+				</field>
+			</fieldset>
+			<fieldset name="advanced">
+				<field
+					name="layout"
+					type="modulelayout"
+					label="JFIELD_ALT_LAYOUT_LABEL"
+					description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+				<field
+					name="cache"
+					type="list"
+					default="1"
+					label="COM_MODULES_FIELD_CACHING_LABEL"
+					description="COM_MODULES_FIELD_CACHING_DESC">
+					<option
+						value="1">JGLOBAL_USE_GLOBAL</option>
+					<option
+						value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+				<field
+					name="cache_time"
+					type="text"
+					default="900"
+					filter="integer"
+					label="COM_MODULES_FIELD_CACHE_TIME_LABEL"
+					description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+					
+				<field type="japanel" path="/modules/mod_jafacebookactivity/asset/elements/" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>

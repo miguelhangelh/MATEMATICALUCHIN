@@ -1,0 +1,235 @@
+/**
+ * $JA#COPYRIGHT$
+ */
+
+//
+// HEADER
+// ---------------------------------------------------------
+.head-search .form-control {
+  background: @tpl-bg-social;
+  border-color: @tpl-bg-social;
+  color: #9DBBD5;
+  &:hover, &:focus, &:active {
+    background: @tpl-bg-social;
+    border-color: @tpl-bg-social;
+    color: #9DBBD5;
+  }
+}
+
+.head-search .button {
+  background: #626263;
+  border-color: #626263;
+}
+
+//
+// Spotlight
+// ---------------------------------------------------------
+.t3-bot-sl {
+  background-image: url("@{t3-theme-image-path}/pattern-bg.png");
+  background-repeat: repeat;
+}
+
+
+// Spotlight Dark
+// ----------------
+.t3-bot-sl {
+  // Module Content
+  // --------------
+  .module-ct {
+
+    ul.nav {
+      li {
+        a {
+          background-image: url("@{t3-theme-image-path}/bullet-dark.gif");
+        }
+      }
+    }
+  }
+}
+
+.social-list a {
+  background-color: #626263;
+}
+
+
+
+// ---------------------------------------------------------
+// NAVHELPER
+// ---------------------------------------------------------
+.t3-navhelper {
+  background-image: url("@{t3-theme-image-path}/pattern-bg.png");
+  background-repeat: repeat;
+}
+
+
+
+// ---------------------------------------------------------
+// FOOTER
+// ---------------------------------------------------------
+.t3-footer {
+  background-image: url("@{t3-theme-image-path}/pattern-bg.png");
+  background-repeat: repeat;
+}
+
+
+
+// ---------------------------------------------------------
+// MEGAMENU
+// ---------------------------------------------------------
+
+.t3-megamenu {
+  .mega-nav > li,
+  .dropdown-menu .mega-nav > li {
+    border-top-color: #969696  !important;
+    a {
+      color: #c3c4c5 !important;
+    }
+  }
+
+  .mega-nav > li.open > a,
+  .dropdown-menu .mega-nav > li.open > a,
+  .dropdown-menu .mega-nav > li.active > a {
+    color: @white !important;
+  }
+
+  .dropdown-header,
+  .mega-nav .mega-group > .dropdown-header,
+  .dropdown-menu .mega-nav .mega-group > .dropdown-header,
+  .dropdown-menu .active .mega-nav .mega-group > .dropdown-header {
+    border-bottom-color: #969696 !important;
+    color: #c3c4c5;
+    // Link states
+    &:hover, &:active, &:focus {
+      background: none;
+      color: @white;
+    }
+  }
+}
+
+
+
+// ---------------------------------------------------------
+// MODULE
+// ---------------------------------------------------------
+
+// Slideshow 
+.ja-ss-desc {
+  background-image: url("@{t3-theme-image-path}/sl-desc-bg.png") !important;
+}
+
+.ja-ss-mask {
+  background-image: url("@{t3-theme-image-path}/mask-left.png") !important;
+  &.mask-right {
+    background-image: url("@{t3-theme-image-path}/mask-right.png") !important;
+  }
+}
+
+.ja-ss-btns {
+  span {
+    background-image: url("@{t3-theme-image-path}/sl-btn-direction.png") !important;
+  }
+}
+
+.ja-ss-thumbs  {
+  .ja-ss-thumb {
+    span {
+      background-image: url("@{t3-theme-image-path}/sl-thumb.png") !important;
+    }
+  }
+}
+
+// Content Slider 
+.ja-contentslider-left, 
+.ja-contentslider-right {
+  background-image: url("@{t3-theme-image-path}/btn-control.png") !important;
+}
+
+// Login 
+#login-form .unstyled li a {
+  &:hover, &:focus, &:active {
+    background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+  }
+}
+
+
+// Archive Module 
+.archive-module li a {
+  &:hover, &:focus, &:active {
+    background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+  }
+}
+
+// Acymailling
+.acymailing_module .acymailing_form .inputbox {
+  background: @tpl-bg-social;
+  border-color: @tpl-bg-social;
+  color: @breadcrumb-color;
+
+}
+
+.mostread li a {
+  &:hover, &:focus, &:active {
+    background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+  }
+}
+
+// Mod K2 Users 
+div.k2UsersBlock {
+  ul li ul.ubUserItems {
+    li a {
+      &:hover, &:active, &:focus {
+        background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+      }
+    }
+  }
+}
+
+.k2LoginBlock, .k2UserBlock {
+  ul {
+    li a {
+      &:hover, &:active, &:focus {
+        background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+      }
+    }
+  }
+}
+
+
+// ---------------------------------------------------------
+// K2
+// ---------------------------------------------------------
+
+
+.itemIsFeatured, 
+.catItemIsFeatured, 
+.userItemIsFeatured {
+  background-image: url("@{t3-theme-image-path}/featuredItem.png");
+}
+
+div.itemAuthorLatest, 
+div.itemRelated {
+  ul li a {
+    &:hover, &:active, &:focus {
+      background-image: url("@{t3-theme-image-path}/bullet-hover.gif");
+    }
+  }
+}
+
+.itemAuthorLatest ul li a, 
+.itemRelated ul li a {
+  background-image: url("@{t3-theme-image-path}/bullet-dark-ltr.gif");
+}
+
+.itemToolbar ul li a#fontIncrease img {
+  background-image: url("@{t3-theme-image-path}/font_increase.gif");
+}
+
+.itemToolbar ul li a#fontDecrease img {
+  background-image: url("@{t3-theme-image-path}/font_decrease.gif");
+}
+
+.itemRatingList,
+.itemRatingList a:hover,
+.itemRatingList .itemCurrentRating {
+  background-image: url("@{t3-theme-image-path}/transparent_star.gif");
+}

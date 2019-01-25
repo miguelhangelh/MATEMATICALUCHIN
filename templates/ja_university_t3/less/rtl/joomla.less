@@ -1,0 +1,49 @@
+// ---------------------------------------------------------
+// SMART SEARCH
+// ---------------------------------------------------------
+
+.off-canvas body > .autocompleter-choices {
+  width: 0px;
+  left: auto;
+}
+
+.article-content,
+.t3-content article {
+
+  // Add proper margin
+  img[align=left],
+  .img_caption.left,
+  .pull-left.item-image {
+    margin: 0 @t3-global-margin*1.5 @t3-global-margin 0;
+  }  
+
+  img[align=right],
+  .img_caption.right,
+  .pull-right.item-image {
+    margin: 0 0 @t3-global-margin @t3-global-margin*1.5 ;
+  }
+
+}
+
+article {
+  .item-image,
+  .article-image {
+    margin-right: 0;
+    margin-left: @t3-global-margin;
+  }
+}
+
+// Fix RTL K2
+#k2Container {
+  .itemNavigation a:before {
+    content: "\f105";
+  }
+
+  .itemNavigation a.itemNext:before {
+    content: "\f104";
+  }
+
+  .itemToolbar ul li {
+    border-left: 0;
+  }
+}

@@ -1,0 +1,154 @@
+.contentslider {
+  border-top: solid 1px #efece1;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.ja-contentslider {
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100% !important;
+}
+#ja-contentsliderwrap div.moduletable {
+  margin: 0;
+  padding: 0 !important;
+}
+.ja-contentslider-center {
+  margin: 0;
+  padding: 0;
+  float: right;
+  position: relative;
+  overflow: hidden;
+}
+@media screen and (min-width: 992px) {
+  .ja-contentslider-center {
+    width: 100% !important;
+  }
+}
+.ja-contentslider-center span {
+  width: 140px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.ja-contentslider-center div.jsslide {
+  text-align: center;
+}
+.ja-contentslider-center .content a {
+  background: #ffffff;
+  border: solid 1px #efece1;
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 6px;
+}
+.ja-contentslider-center .content a:hover,
+.ja-contentslider-center .content a:focus,
+.ja-contentslider-center .content a:active {
+  border-color: #cccccc;
+}
+.ja-contentslider-center img {
+  margin: 0;
+  height: auto;
+}
+.ja-contentslider-center .ja_slidetitle a {
+  font-size: 15px;
+  font-weight: normal;
+}
+div.ja_slidetitle {
+  text-align: center;
+}
+div.ja_slidetitle a {
+  font-weight: bold;
+}
+div.ja_slideimages {
+  margin: 0;
+}
+.ja-contentslider-center-wrap {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+@media screen and (max-width: 992px) {
+  .ja-contentslider-center-wrap {
+    overflow: hidden;
+    width: 100% !important;
+  }
+}
+div.ja-slidereadmore {
+  margin: 10px 0 0;
+}
+div.ja-slidereadmore a {
+  background: none;
+  color: #666666;
+}
+div.ja-slidereadmore a:hover,
+div.ja-slidereadmore a:focus,
+div.ja-slidereadmore a:active {
+  background: none;
+  color: #9cb75a;
+}
+.ja-button-control {
+  margin: 5px 0 20px;
+  position: relative;
+}
+.ja-button-control .ja-text-heading {
+  font-weight: bold;
+  padding: 2px 5px;
+  float: right;
+}
+.ja-button-control a {
+  background: #ffffff;
+  border: 1px solid #efece1;
+  display: block;
+  float: right;
+  line-height: 20px;
+  margin-left: 5px;
+  margin-top: 2px;
+  padding: 0 5px;
+}
+.ja-button-control a:hover,
+.ja-button-control a:focus,
+.ja-button-control a:active {
+  text-decoration: none;
+  color: #ffffff;
+  background: #9cb75a;
+  border: 1px solid #9cb75a;
+}
+.ja-button-control a.active {
+  text-decoration: none;
+  color: #ffffff;
+  background: #9cb75a;
+  border: 1px solid #9cb75a;
+}
+.ja-button-control strong {
+  font-size: 110%;
+  padding-right: 20px;
+  line-height: 27px;
+  display: block;
+  float: right;
+}
+.ja-contentslider-left,
+.ja-contentslider-right {
+  background: url("../../../images/btn-control.png") no-repeat left top;
+  position: absolute;
+  height: 17px;
+  left: 10px;
+  top: -25px;
+  width: 17px;
+}
+.ja-contentslider-left:hover,
+.ja-contentslider-right:hover {
+  background-position: left bottom;
+  cursor: pointer;
+}
+.ja-contentslider-left {
+  background-position: right top;
+  left: 34px;
+}
+.ja-contentslider-left:hover {
+  background-position: right bottom ;
+}
+.ie8 .ja-contentslider-center img {
+  max-width: none !important;
+}
